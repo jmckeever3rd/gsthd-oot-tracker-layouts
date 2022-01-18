@@ -27,14 +27,15 @@
 				"JABU",
 				"DC",
 				"DEKU",
-				"None",
+				"FREE",
+				"????",
 				"FOREST",
 				"FIRE",
 				"WATER",
 				"SHADOW",
 				"SPIRIT",
 			],
-			"DefaultValue" : "3",
+			"DefaultValue" : "4",
 			"Wraparound" : "false",
 			"FontName" : "Consolas",
 			"FontSize": "8",
@@ -49,7 +50,6 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"sticks-bw_32x32.png",
 				"sticks_32x32.png",
 			],
 		},
@@ -60,7 +60,6 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"nuts-bw_32x32.png",
 				"nuts_32x32.png",
 			],
 		},
@@ -108,8 +107,6 @@
 				"dins-fire_32x32.png",
 			],
 		},
-
-
 		{
 			"Name" : "Slingshot",
 			"X" : "20",
@@ -121,7 +118,6 @@
 				"slingshot_32x32.png",
 			],
 		},
-
 		{
 			"Name" : "Ocarina",
 			"X" : "62",
@@ -129,8 +125,8 @@
 			"Visible" : "true",
 			"Size" : "32, 32",
 			"ImageCollection" : [
-				"ocarina-bw_32x32.png",
 				"ocarina_32x32.png",
+				"ocarina-of-time_32x32.png",
 			],
 		},
 		
@@ -415,26 +411,6 @@
 			"LabelFontStyle" : "Bold",
 			"LabelColor" : "White",
 		},
-
-		{
-			"Name" : "Bottles",
-			"X" : "274",
-			"Y" : "38",
-			"Size" : "30, 30",
-			// "CountPosition" : "10, 7",
-			// "CountMax" : "4",
-			"Visible" : "false",
-			"ImageCollection" : [
-				"bottle-empty-bw_32x32.png",
-				"bottle-empty_32x32.png",
-				
-			],
-			
-			"LabelFontName" : "Consolas",
-			"LabelFontSize" : "14",
-			"LabelFontStyle" : "Bold",
-			"LabelColor" : "White",
-		}
 	],
 	"Songs" : [
 		{
