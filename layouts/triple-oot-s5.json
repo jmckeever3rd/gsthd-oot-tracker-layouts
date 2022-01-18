@@ -634,8 +634,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"kokiri-stone-bw_32x32.png",
-				"kokiri-stone_32x32.png",
+				"triple/emerald-fade_32x32.png",
+				"triple/emerald.png",
 			],
 		},
 		{
@@ -645,8 +645,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"goron-stone-bw_32x32.png",
-				"goron-stone_32x32.png",
+				"triple/ruby-fade_32x32.png",
+				"triple/ruby.png",
 			],
 		},
 		{
@@ -656,8 +656,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"zora-stone-bw_32x32.png",
-				"zora-stone_32x32.png",
+				"triple/sapphire-fade_32x32.png",
+				"triple/sapphire.png",
 			],
 		}
 	],
