@@ -1,4 +1,14 @@
-/GSTHD/obj
-/GSTHD/bin
+/GSTHD
 /.vs
 
+gsthd.exe
+newtonsoft.Json.dll
+newtonsoft.json.xml
+oot_places.json
+sometimes_hints_old.json
+sometimes_hints.json
+gsthd.sln
+license.md
+readme.md
+
+layouts/_archive
