@@ -1,7 +1,7 @@
 {	
 	"AppSize" : {
-		"Width": "380",
-		"Height": "600",
+		"Width": "480",
+		"Height": "700",
 		"BackgroundColor": "0, 0, 0",
 		"DefaultSongMarkerPosition": "10, 10",
 		"DefaultSongMarkerImages" : [
@@ -42,7 +42,6 @@
 		},
 	},
 	"Items" : [
-		
 		{
 			"Name": "DekuSticks",
 			"X" : "0",
@@ -69,7 +68,7 @@
 			"Name" : "Slingshot",
 			"X" : "15",
 			"Y" : "3",
-			"Visible" : "true",
+			"Visible" : "false",
 			"Size" : "30, 30",
 			"ImageCollection" : [
 				"slingshot-bw_32x32.png",
@@ -81,7 +80,7 @@
 			"X" : "52",
 			"Y" : "3",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"bombs-bw_32x32.png",
 				"bombs_32x32.png",
@@ -92,7 +91,7 @@
 			"X" : "52",
 			"Y" : "38",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"bomb-chu-bw_32x32.png",
 				"bomb-chu_32x32.png",
@@ -103,7 +102,7 @@
 			"X" : "126",
 			"Y" : "3",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"hookshot-bw_32x32.png",
 				"hookshot_32x32.png",
@@ -115,7 +114,7 @@
 			"X" : "126",
 			"Y" : "38",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"bow-bw_32x32.png",
 				"bow_32x32.png",
@@ -126,7 +125,7 @@
 			"X" : "163",
 			"Y" : "38",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"fire-arrows-bw_32x32.png",
 				"fire-arrows_32x32.png",
@@ -149,7 +148,7 @@
 			"X" : "200",
 			"Y" : "38",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"light-arrows-bw_32x32.png",
 				"light-arrows_32x32.png",
@@ -160,7 +159,7 @@
 			"X" : "237",
 			"Y" : "3",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"dins-fire-bw_32x32.png",
 				"dins-fire_32x32.png",
@@ -171,7 +170,7 @@
 			"X" : "237",
 			"Y" : "38",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"farores-wind-bw_32x32.png",
 				"farores-wind_32x32.png",
@@ -182,7 +181,7 @@
 			"X" : "237",
 			"Y" : "73",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"nayrus-love-bw_32x32.png",
 				"nayrus-love_32x32.png",
@@ -194,7 +193,7 @@
 			"X" : "163",
 			"Y" : "3",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"magic-bw_32x32.png",
 				"magic_32x32.png",
@@ -207,7 +206,7 @@
 			"X" : "311",
 			"Y" : "3",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"zeldas-letter_32x32.png",
 				"keaton-mask_32x32.png",
@@ -221,7 +220,7 @@
 			"X" : "311",
 			"Y" : "38",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"prescription-bw_32x32.png",
 				"prescription_32x32.png",
@@ -236,7 +235,7 @@
 			"X" : "15",
 			"Y" : "38",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"boomerang-bw_32x32.png",
 				"boomerang_32x32.png",
@@ -247,7 +246,7 @@
 			"X" : "274",
 			"Y" : "73",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"scale-bw_32x32.png",
 				"scale_32x32.png",
@@ -259,7 +258,7 @@
 			"X" : "89",
 			"Y" : "3",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"strength-bw_32x32.png",
 				"strength_32x32.png",
@@ -272,7 +271,7 @@
 			"X" : "200",
 			"Y" : "3",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"lens-bw_32x32.png",
 				"lens_32x32.png",
@@ -283,7 +282,7 @@
 			"X" : "89",
 			"Y" : "38",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"hammer-bw_32x32.png",
 				"hammer_32x32.png",
@@ -296,7 +295,7 @@
 			"X" : "311",
 			"Y" : "73",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"wallet-bw_32x32.png",
 				"wallet2_32x32.png",
@@ -308,7 +307,7 @@
 			"X" : "274",
 			"Y" : "3",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			// "CountPosition" : "0, 0",
 			// "Step" : "1",
 			// "CountMax" : "4",
@@ -350,7 +349,7 @@
 			"X" : "15",
 			"Y" : "76",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"kokiri-sword-bw_32x32.png",
 				"kokiri-sword_32x32.png",
@@ -361,7 +360,7 @@
 			"X" : "15",
 			"Y" : "106",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"biggoron-sword-bw_32x32.png",
 				"biggoron-sword_32x32.png",
@@ -372,7 +371,7 @@
 			"X" : "52",
 			"Y" : "76",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"hylian-shield-bw_32x32.png",
 				"hylian-shield_32x32.png",
@@ -383,7 +382,7 @@
 			"X" : "52",
 			"Y" : "106",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"mirror-shield-bw_32x32.png",
 				"mirror-shield_32x32.png",
@@ -394,7 +393,7 @@
 			"X" : "89",
 			"Y" : "76",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"goron-tunic-bw_32x32.png",
 				"goron-tunic_32x32.png",
@@ -405,7 +404,7 @@
 			"X" : "89",
 			"Y" : "106",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"zora-tunic-bw_32x32.png",
 				"zora-tunic_32x32.png",
@@ -416,7 +415,7 @@
 			"X" : "126",
 			"Y" : "76",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"iron-boots-bw_32x32.png",
 				"iron-boots_32x32.png",
@@ -427,7 +426,7 @@
 			"X" : "126",
 			"Y" : "106",
 			"Size" : "30, 30",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"hover-boots-bw_32x32.png",
 				"hover-boots_32x32.png",
@@ -447,7 +446,7 @@
 			"CountPosition" : "20, 3",
 			"Step" : "1",
 			"CountMax": "50",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"triple/skulltula_64x32.png",
 			],
@@ -464,7 +463,7 @@
 			"Size" : "30, 30",
 			// "CountPosition" : "10, 7",
 			// "CountMax" : "4",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"bottle-empty-bw_32x32.png",
 				"bottle-empty_32x32.png",
@@ -483,7 +482,7 @@
 			"X" : "20",
 			"Y" : "146",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"DragAndDropPosition" : "10, 7",
 			"ImageCollection" : [
@@ -496,7 +495,7 @@
 			"X" : "52",
 			"Y" : "146",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"epona-bw_32x32.png",
@@ -508,7 +507,7 @@
 			"X" : "84",
 			"Y" : "146",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"saria-bw_32x32.png",
@@ -520,7 +519,7 @@
 			"X" : "117",
 			"Y" : "146",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"triple/sunsong_fade.png",
@@ -532,7 +531,7 @@
 			"X" : "148",
 			"Y" : "146",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"song-of-time-bw_32x32.png",
@@ -544,7 +543,7 @@
 			"X" : "180",
 			"Y" : "146",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"song-of-storms-bw_32x32.png",
@@ -556,7 +555,7 @@
 			"X" : "20",
 			"Y" : "176",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"minuet-bw_32x32.png",
@@ -568,7 +567,7 @@
 			"X" : "52",
 			"Y" : "176",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"bolero-bw_32x32.png",
@@ -581,7 +580,7 @@
 			"X" : "84",
 			"Y" : "176",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"serenade-bw_32x32.png",
@@ -593,7 +592,7 @@
 			"X" : "117",
 			"Y" : "176",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"nocturne-bw_32x32.png",
@@ -605,7 +604,7 @@
 			"X" : "148",
 			"Y" : "176",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"requiem-bw_32x32.png",
@@ -617,7 +616,7 @@
 			"X" : "180",
 			"Y" : "176",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"prelude-bw_32x32.png",
@@ -628,75 +627,75 @@
 	"Medallions" : [
 		{
 			"Name" : "GreenMedallion",
-			"X" : "230",
-			"Y" : "108",
+			"X" : "20",
+			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"green-medallion-bw_32x32.png",
-				"green-medallion_32x32.png",
+				"triple/forestmedallion_fade_32x32.png",
+				"triple/forestmedallion_32x32.png",
 			],
 		},
 		{
 			"Name": "RedMedallion",
-			"X" : "270",
-			"Y" : "108",
+			"X" : "68",
+			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"red-medallion-bw_32x32.png",
-				"red-medallion_32x32.png",
+				"triple/firemedallion_fade_32x32.png",
+				"triple/firemedallion_32x32.png",
 			],
 		},
 		{
 			"Name" : "BlueMedallion",
-			"X" : "310",
-			"Y" : "108",
+			"X" : "116",
+			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"blue-medallion-bw_32x32.png",
-				"blue-medallion_32x32.png",
+				"triple/watermedallion_fade_32x32.png",
+				"triple/watermedallion_32x32.png",
 			],
 		},
 		{
 			"Name" : "PurpleMedallion",
-			"X" : "230",
-			"Y" : "148",
+			"X" : "164",
+			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"purple-medallion-bw_32x32.png",
-				"purple-medallion_32x32.png",
+				"triple/shadowmedallion_fade_32x32.png",
+				"triple/shadowmedallion_32x32.png",
 			],
 		},
 		{
 			"Name" : "OrangeMedallion",
-			"X" : "270",
-			"Y" : "148",
+			"X" : "212",
+			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"orange-medallion-bw_32x32.png",
-				"orange-medallion_32x32.png",
+				"triple/spiritmedallion_fade_32x32.png",
+				"triple/spiritmedallion_32x32.png",
 			],
 		},
 		{
 			"Name" : "YellowMedallion",
-			"X" : "310",
-			"Y" : "148",
+			"X" : "260",
+			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"yellow-medallion-bw_32x32.png",
-				"yellow-medallion_32x32.png",
+				"triple/lightmedallion_fade_32x32.png",
+				"triple/lightmedallion_32x32.png",
 			],
 		},
 		{
 			"Name" : "KokiriStone",
-			"X" : "233",
-			"Y" : "188",
-			"Size" : "24, 24",
+			"X" : "308",
+			"Y" : "20",
+			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
 				"kokiri-stone-bw_32x32.png",
@@ -705,9 +704,9 @@
 		},
 		{
 			"Name" : "GoronStone",
-			"X" : "274",
-			"Y" : "188",
-			"Size" : "24, 24",
+			"X" : "356",
+			"Y" : "20",
+			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
 				"goron-stone-bw_32x32.png",
@@ -716,9 +715,9 @@
 		},
 		{
 			"Name" : "ZoraStone",
-			"X" : "314",
-			"Y" : "188",
-			"Size" : "24, 24",
+			"X" : "404",
+			"Y" : "20",
+			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
 				"zora-stone-bw_32x32.png",
@@ -732,7 +731,7 @@
 			"X" : "23",
 			"Y" : "254",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"30-gold-skulltula_32x32.png",
 			],
@@ -742,7 +741,7 @@
 			"X" : "23",
 			"Y" : "284",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"40-gold-skulltula_32x32.png",
 			],
@@ -752,7 +751,7 @@
 			"X" : "23",
 			"Y" : "314",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"50-gold-skulltula_32x32.png",
 			],
@@ -762,7 +761,7 @@
 			"X" : "93",
 			"Y" : "254",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"skull-mask_32x32.png",
 			],
@@ -773,7 +772,7 @@
 			"X" : "93",
 			"Y" : "284",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"biggoron_32x32.png",
 			],
@@ -783,7 +782,7 @@
 			"X" : "93",
 			"Y" : "314",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"frogs_32x32.png",
 			],
@@ -793,7 +792,7 @@
 			"X" : "58",
 			"Y" : "224",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"ocarina-of-time_32x32.png",
 			],
@@ -806,7 +805,7 @@
 					"X" : "23",
 					"Y" : "380",
 					"Size" : "30, 24",
-					"Visible" : "true",
+					"Visible" : "false",
 					"ImageCollection" : [
 									"bosses/unknown_32x24.png",
 									"bosses/gohma_32x24.png",
@@ -824,49 +823,49 @@
 			"X" : "53",
 			"Y" : "257",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 		},
 		{
 			"Name" : "SkulltulasHint_40_GossipStone",
 			"X" : "53",
 			"Y" : "287",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 		},
 		{
 			"Name" : "SkulltulasHint_50_GossipStone",
 			"X" : "53",
 			"Y" : "317",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 		},
 		{
 			"Name" : "SkullMaskHint_GossipStone",
 			"X" : "123",
 			"Y" : "257",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 		},
 		{
 			"Name" : "BiggoronHint_GossipStone",
 			"X" : "123",
 			"Y" : "287",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 		},
 		{
 			"Name" : "FrogsHint_GossipStone",
 			"X" : "123",
 			"Y" : "317",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 		},
 		{
 			"Name" : "OcarinaOfTimeHint_GossipStone",
 			"X" : "88",
 			"Y" : "227",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 		},
 		{
 			"Name" : "SometimesHint1_GossipStone",
@@ -888,7 +887,7 @@
 			"X" : "312",
 			"Y" : "247",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"gossip-stone-bw_32x32.png",
 				"sold-out_32x32.png",
@@ -903,7 +902,7 @@
 			"X" : "312",
 			"Y" : "271",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"gossip-stone-bw_32x32.png",
 				"sold-out_32x32.png",
@@ -918,7 +917,7 @@
 			"X" : "312",
 			"Y" : "295",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"gossip-stone-bw_32x32.png",
 				"sold-out_32x32.png",
@@ -933,7 +932,7 @@
 			"X" : "312",
 			"Y" : "319",
 			"Size" : "24, 24",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"gossip-stone-bw_32x32.png",
 				"sold-out_32x32.png",
@@ -955,7 +954,7 @@
 	// 		"FontSize": "11",
 	// 		"FontStyle" : "Bold",
 	// 		"Color" : "White",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// 	{
 	// 		"Name" : "LocationTracking_label",
@@ -966,7 +965,7 @@
 	// 		"FontSize": "11",
 	// 		"FontStyle" : "Bold",
 	// 		"Color" : "White",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// ],
 	// "TextBoxes" : [
@@ -974,7 +973,7 @@
 	// 		"Name" : "LocationTracking_TextBox",
 	// 		"X" : "550",
 	// 		"Y" : "190",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 		"BackColor" : "64,64,64",
 	// 		"FontName" : "Calibri",
 	// 		"FontSize" : "8",
@@ -986,7 +985,7 @@
 	// 	{
 	// 		"X" : "550",
 	// 		"Y" : "250",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 		"BackColor" : "64,64,64",
 	// 		"FontName" : "Calibri",
 	// 		"FontSize" : "8",
@@ -998,7 +997,7 @@
 	// 	{
 	// 		"X" : "550",
 	// 		"Y" : "310",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 		"BackColor" : "64,64,64",
 	// 		"FontName" : "Calibri",
 	// 		"FontSize" : "8",
@@ -1010,7 +1009,7 @@
 	// 	{
 	// 		"X" : "550",
 	// 		"Y" : "370",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 		"BackColor" : "64,64,64",
 	// 		"FontName" : "Calibri",
 	// 		"FontSize" : "8",
@@ -1022,7 +1021,7 @@
 	// 	{
 	// 		"X" : "550",
 	// 		"Y" : "430",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 		"BackColor" : "64,64,64",
 	// 		"FontName" : "Calibri",
 	// 		"FontSize" : "8",
@@ -1034,7 +1033,7 @@
 	// 	{
 	// 		"X" : "550",
 	// 		"Y" : "490",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 		"BackColor" : "64,64,64",
 	// 		"FontName" : "Calibri",
 	// 		"FontSize" : "8",
@@ -1053,7 +1052,7 @@
 	// 		"Rows" : "3",
 	// 		"Size" : "24, 24",
 	// 		"Spacing" : "0, 13",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// 	{
 	// 		"X" : "360",
@@ -1062,7 +1061,7 @@
 	// 		"Rows" : "11",
 	// 		"Size" : "24, 24",
 	// 		"Spacing" : "0, 13",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// 	{
 	// 		"Name" : "LocationTracking_GossipStoneGrid",
@@ -1072,7 +1071,7 @@
 	// 		"Rows" : "1",
 	// 		"Size" : "24, 24",
 	// 		"Spacing" : "0, 0",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// 	{
 	// 		"X" : "542",
@@ -1081,7 +1080,7 @@
 	// 		"Rows" : "1",
 	// 		"Size" : "24, 24",
 	// 		"Spacing" : "0, 0",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// 	{
 	// 		"X" : "542",
@@ -1090,7 +1089,7 @@
 	// 		"Rows" : "1",
 	// 		"Size" : "24, 24",
 	// 		"Spacing" : "0, 0",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// 	{
 	// 		"X" : "542",
@@ -1099,7 +1098,7 @@
 	// 		"Rows" : "1",
 	// 		"Size" : "24, 24",
 	// 		"Spacing" : "0, 0",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// 	{
 	// 		"X" : "542",
@@ -1108,7 +1107,7 @@
 	// 		"Rows" : "1",
 	// 		"Size" : "24, 24",
 	// 		"Spacing" : "0, 0",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// 	{
 	// 		"X" : "542",
@@ -1117,7 +1116,7 @@
 	// 		"Rows" : "1",
 	// 		"Size" : "24, 24",
 	// 		"Spacing" : "0, 0",
-	// 		"Visible" : "true",
+	// 		"Visible" : "false",
 	// 	},
 	// ],
 	
@@ -1127,7 +1126,7 @@
 			"X" : "270",
 			"Y" : "500",
 			"Size" : "32, 32",
-			"Visible" : "true",
+			"Visible" : "false",
 			"ImageCollection" : [
 				"go-mode-bw_32x32.png",
 				"go-mode_32x32.png",
@@ -1140,7 +1139,7 @@
 			"Name" : "SometimesHint1",
 			"X" : "175",
 			"Y" : "225",
-			"Visible" : "true",
+			"Visible" : "false",
 			"BackColor" : "64,64,64",
 			"FontName" : "Calibri",
 			"FontSize" : "8",
@@ -1153,7 +1152,7 @@
 			"Name" : "SometimesHint2",
 			"X" : "175",
 			"Y" : "249",
-			"Visible" : "true",
+			"Visible" : "false",
 			"BackColor" : "64,64,64",
 			"FontName" : "Calibri",
 			"FontSize" : "8",
@@ -1166,7 +1165,7 @@
 			"Name" : "SometimesHint3",
 			"X" : "175",
 			"Y" : "273",
-			"Visible" : "true",
+			"Visible" : "false",
 			"BackColor" : "64,64,64",
 			"FontName" : "Calibri",
 			"FontSize" : "8",
@@ -1179,7 +1178,7 @@
 			"Name" : "SometimesHint4",
 			"X" : "175",
 			"Y" : "297",
-			"Visible" : "true",
+			"Visible" : "false",
 			"BackColor" : "64,64,64",
 			"FontName" : "Calibri",
 			"FontSize" : "8",
@@ -1192,7 +1191,7 @@
 			"Name" : "SometimesHint5",
 			"X" : "175",
 			"Y" : "321",
-			"Visible" : "true",
+			"Visible" : "false",
 			"BackColor" : "64,64,64",
 			"FontName" : "Calibri",
 			"FontSize" : "8",
