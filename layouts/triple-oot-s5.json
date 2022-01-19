@@ -801,7 +801,7 @@
 		{
 			"Name" : "SometimesHint1_GossipStone",
 			"X" : "412",
-			"Y" : "264",
+			"Y" : "266",
 			"Size" : "24, 24",
 			"Visible" : "true",
 			"ImageCollection" : [
@@ -816,7 +816,7 @@
 		{
 			"Name" : "SometimesHint2_GossipStone",
 			"X" : "412",
-			"Y" : "293",
+			"Y" : "296",
 			"Size" : "24, 24",
 			"Visible" : "true",
 			"ImageCollection" : [
@@ -831,7 +831,7 @@
 		{
 			"Name" : "SometimesHint3_GossipStone",
 			"X" : "412",
-			"Y" : "323",
+			"Y" : "325",
 			"Size" : "24, 24",
 			"Visible" : "true",
 			"ImageCollection" : [
@@ -846,7 +846,7 @@
 		{
 			"Name" : "SometimesHint4_GossipStone",
 			"X" : "412",
-			"Y" : "351",
+			"Y" : "354",
 			"Size" : "24, 24",
 			"Visible" : "true",
 			"ImageCollection" : [
@@ -861,7 +861,7 @@
 		{
 			"Name" : "SometimesHint5_GossipStone",
 			"X" : "412",
-			"Y" : "380",
+			"Y" : "383",
 			"Size" : "24, 24",
 			"Visible" : "true",
 			"ImageCollection" : [
@@ -1125,7 +1125,7 @@
 			"FontName" : "Calibri",
 			"FontSize" : "11",
 			"FontStyle" : "Bold",
-			"FontColor" : "black",
+			"FontColor" : "white",
 			"Width" : "128",
 			"Height" : "23",
 		},
