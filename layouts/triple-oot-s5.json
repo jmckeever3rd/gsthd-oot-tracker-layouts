@@ -421,8 +421,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"zeldas-lullaby-bw_32x32.png",
-				"zeldas-lullaby_32x32.png",
+				"triple/zeldas-lullaby_fade_32x32.png",
+				"triple/zeldas-lullaby_32x32.png",
 			],
 		},
 		{
@@ -433,8 +433,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"epona-bw_32x32.png",
-				"epona_32x32.png",
+				"triple/epona_fade_32x32.png",
+				"triple/epona_32x32.png",
 			],
 		},
 		{
@@ -445,8 +445,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"saria-bw_32x32.png",
-				"saria_32x32.png",
+				"triple/saria_fade_32x32.png",
+				"triple/saria_32x32.png",
 			],
 		},
 		{
@@ -457,8 +457,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/sunsong_fade.png",
-				"triple/sunsong.png",
+				"triple/sunsong_fade_32x32.png",
+				"triple/sunsong_32x32.png",
 			],
 		},
 		{
@@ -469,8 +469,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"song-of-time-bw_32x32.png",
-				"song-of-time_32x32.png",
+				"triple/songoftime_fade_32x32.png",
+				"triple/songoftime_32x32.png",
 			],
 		},
 		{
@@ -481,8 +481,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"song-of-storms-bw_32x32.png",
-				"song-of-storms_32x32.png",
+				"triple/songofstorms_fade_32x32.png",
+				"triple/songofstorms_32x32.png",
 			],
 		},
 		{
@@ -493,8 +493,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"minuet-bw_32x32.png",
-				"minuet_32x32.png",
+				"triple/green-note_fade_32x32.png",
+				"triple/green-note_32x32.png",
 			],
 		},
 		{
@@ -505,8 +505,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"bolero-bw_32x32.png",
-				"bolero_32x32.png",
+				"triple/red-note_fade_32x32.png",
+				"triple/red-note_32x32.png",
 			],
 		},
 		
@@ -518,8 +518,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"serenade-bw_32x32.png",
-				"serenade_32x32.png",
+				"triple/blue-note_fade_32x32.png",
+				"triple/blue-note_32x32.png",
 			],
 		},
 		{
@@ -530,8 +530,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"nocturne-bw_32x32.png",
-				"nocturne_32x32.png",
+				"triple/purple-note_fade_32x32.png",
+				"triple/purple-note_32x32.png",
 			],
 		},
 		{
@@ -542,8 +542,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"requiem-bw_32x32.png",
-				"requiem_32x32.png",
+				"triple/orange-note_fade_32x32.png",
+				"triple/orange-note_32x32.png",
 			],
 		},
 		{
@@ -554,8 +554,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"prelude-bw_32x32.png",
-				"prelude_32x32.png",
+				"triple/yellow-note_fade_32x32.png",
+				"triple/yellow-note_32x32.png",
 			],
 		},
 	],
