@@ -15,7 +15,11 @@
 			"bottle-big-poe_32x32.png",
 		],
 		"WothColors" : [
-			"white"
+			"White",
+			"Yellow",
+			"DarkOrange",
+			"Red",
+			"Black"
 		],
 		"DefaultWothColorIndex" : "0",
 		"DefaultDungeonNames" : {    
@@ -447,7 +451,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/zeldas-lullaby_fade_32x32.png",
+				"triple/zeldas-lullaby-fade_32x32.png",
 				"triple/zeldas-lullaby_32x32.png",
 			],
 		},
@@ -459,7 +463,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/epona_fade_32x32.png",
+				"triple/epona-fade_32x32.png",
 				"triple/epona_32x32.png",
 			],
 		},
@@ -471,7 +475,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/saria_fade_32x32.png",
+				"triple/saria-fade_32x32.png",
 				"triple/saria_32x32.png",
 			],
 		},
@@ -483,7 +487,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/sunsong_fade_32x32.png",
+				"triple/sunsong-fade_32x32.png",
 				"triple/sunsong_32x32.png",
 			],
 		},
@@ -660,7 +664,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"triple/emerald-fade_32x32.png",
-				"triple/emerald.png",
+				"triple/emerald_32x32.png",
 			],
 		},
 		{
@@ -671,7 +675,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"triple/ruby-fade_32x32.png",
-				"triple/ruby.png",
+				"triple/ruby_32x32.png",
 			],
 		},
 		{
@@ -682,7 +686,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"triple/sapphire-fade_32x32.png",
-				"triple/sapphire.png",
+				"triple/sapphire_32x32.png",
 			],
 		}
 	],
@@ -763,8 +767,8 @@
 	"GossipStones" : [
 		{
 			"Name" : "Boss1",
-					"X" : "23",
-					"Y" : "380",
+					"X" : "400",
+					"Y" : "600",
 					"Size" : "30, 24",
 					"Visible" : "false",
 					"ImageCollection" : [
@@ -910,7 +914,15 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"triple/triforce-medallion02_32x32.png",
+				"triple/emerald_32x32.png",
+				"triple/ruby_32x32.png",
+				"triple/sapphire_32x32.png",
+				"triple/forestmedallion_32x32.png",
+				"triple/firemedallion_32x32.png",
+				"triple/watermedallion_32x32.png",
+				"triple/shadowmedallion_32x32.png",
+				"triple/spiritmedallion_32x32.png",
 			],
 		},
 		{
@@ -920,7 +932,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"triple/triforce-medallion02_32x32.png",
 			],
 		},
 		{
@@ -930,7 +942,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"triple/triforce-medallion02_32x32.png",
 			],
 		},
 		{
@@ -940,7 +952,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"triple/triforce-medallion02_32x32.png",
 			],
 		},
 		{
@@ -950,7 +962,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"triple/triforce-medallion02_32x32.png",
 			],
 		},
 		
