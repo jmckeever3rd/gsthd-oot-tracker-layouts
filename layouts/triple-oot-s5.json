@@ -231,7 +231,7 @@
 			"ImageCollection" : [
 				"kokiri-sword-bw_32x32.png",
 				"kokiri-sword_32x32.png",
-			],
+			]
 		},	
 		{
 			"Name" : "BiggoronSword",
@@ -242,7 +242,7 @@
 			"ImageCollection" : [
 				"biggoron-sword-bw_32x32.png",
 				"biggoron-sword_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "Bottle1",
@@ -256,7 +256,7 @@
 				"triple/bottle2.png",
 				"triple/bottle3.png",
 				"triple/bottle4.png",
-			],
+			]
 		},
 		{
 			"Name" : "RutosLetter",
@@ -267,7 +267,7 @@
 			"ImageCollection" : [
 				"bottle-rutos-letter-bw_32x32.png",
 				"bottle-rutos-letter_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "ChildTrading",
@@ -280,7 +280,7 @@
 				"keaton-mask_32x32.png",
 				"sold-out_32x32.png",
 				"skull-mask_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "BiggoronItems",
@@ -294,7 +294,7 @@
 				"kz-frog_32x32.png",
 				"eye-drops_32x32.png",
 				"claim-check_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "Tunics",
@@ -307,7 +307,7 @@
 				"goron-tunic_32x32.png",
 				"zora-tunic_32x32.png",
 				"goron-zora-tunics_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "MirrorShield",
@@ -318,7 +318,7 @@
 			"ImageCollection" : [
 				"mirror-shield-bw_32x32.png",
 				"mirror-shield_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "Wallet",
@@ -330,7 +330,7 @@
 				"wallet-bw_32x32.png",
 				"wallet2_32x32.png",
 				"wallet3_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "Magic",
@@ -342,7 +342,7 @@
 				"magic-bw_32x32.png",
 				"magic_32x32.png",
 				"double-magic_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "Scale",
@@ -354,7 +354,7 @@
 				"scale-bw_32x32.png",
 				"scale_32x32.png",
 				"golden-scale_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "Strength",
@@ -367,7 +367,7 @@
 				"strength_32x32.png",
 				"strength2_32x32.png",
 				"strength3_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "IronBoots",
@@ -378,7 +378,7 @@
 			"ImageCollection" : [
 				"iron-boots-bw_32x32.png",
 				"iron-boots_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "HoverBoots",
@@ -389,7 +389,7 @@
 			"ImageCollection" : [
 				"hover-boots-bw_32x32.png",
 				"hover-boots_32x32.png",
-			],
+			]
 		},
 		{
 			"Name" : "Barren1",
@@ -399,8 +399,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sold-out_32x32.png",
-				"sold-out_32x32.png",
-			],
+				"sold-out_32x32.png"
+			]
 		},
 		{
 			"Name" : "Barren2",
@@ -410,8 +410,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sold-out_32x32.png",
-				"sold-out_32x32.png",
-			],
+				"sold-out_32x32.png"
+			]
 		},
 		{
 			"Name" : "Barren3",
@@ -421,13 +421,35 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sold-out_32x32.png",
-				"sold-out_32x32.png",
-			],
-		},			
+				"sold-out_32x32.png"
+			]
+		},
+		{
+			"Name" : "KidSpawn1",
+			"X" : "404",
+			"Y" : "626",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple/triforce-medallion02_32x32.png",
+				"triple/triforce-medallion02_32x32.png",
+			]
+		},
+		{
+			"Name" : "AdultSpawn1",
+			"X" : "404",
+			"Y" : "663",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple/triforce-medallion02_32x32.png",
+				"triple/triforce-medallion02_32x32.png",
+			]
+		}			
 	],
 	"DoubleItems" : [
 		{
-		},
+		}
 	],	
 	"CollectedItems" : [
 		{
@@ -1440,14 +1462,14 @@
 			"TextBoxFontStyle" : "Bold",
 			"TextBoxWidth" : "210",
 			"TextBoxHeight" : "32",
-			"TextBoxText" : "Barren",
+			"TextBoxText" : " Barren",
 			
 			"LabelColor": "White",
 			"LabelBackColor" : "103, 29, 29",
 			"LabelFontName" : "Calibri",
 			"LabelFontSize" : "11",
 			"LabelFontStyle" : "Bold",
-			"LabelWidth" : "210",
+			"LabelWidth" : "204",
 			"LabelHeight" : "32",
 		},
 		{
@@ -1466,7 +1488,7 @@
 			"TextBoxFontName" : "Calibri",
 			"TextBoxFontSize" : "11",
 			"TextBoxFontStyle" : "Bold",
-			"TextBoxWidth" : "210",
+			"TextBoxWidth" : "204",
 			"TextBoxHeight" : "32",
 			"TextBoxText" : "",
 			
@@ -1475,7 +1497,7 @@
 			"LabelFontName" : "Calibri",
 			"LabelFontSize" : "11",
 			"LabelFontStyle" : "Bold",
-			"LabelWidth" : "210",
+			"LabelWidth" : "204",
 			"LabelHeight" : "32",
 		},
 		{
@@ -1494,7 +1516,7 @@
 			"TextBoxFontName" : "Calibri",
 			"TextBoxFontSize" : "11",
 			"TextBoxFontStyle" : "Bold",
-			"TextBoxWidth" : "210",
+			"TextBoxWidth" : "204",
 			"TextBoxHeight" : "32",
 			"TextBoxText" : "",
 			
@@ -1503,8 +1525,64 @@
 			"LabelFontName" : "Calibri",
 			"LabelFontSize" : "11",
 			"LabelFontStyle" : "Bold",
-			"LabelWidth" : "210",
+			"LabelWidth" : "204",
 			"LabelHeight" : "32",
 		},
-	],
+		{
+			"Name" : "MainPanelKidSpawn",
+			"X" : "279",
+			"Y" : "626",
+			"Visible" : "true",
+			"BackColor" : "30, 101, 42",
+			"Width" : "120",
+			"Height" : "32",
+			"NbMaxRows" : "1",
+			"IsScrollable" : "false",
+			
+			"TextBoxName" : "TextBox_Barren1",
+			"TextBoxBackColor" : "30, 101, 42",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "11",
+			"TextBoxFontStyle" : "Bold",
+			"TextBoxWidth" : "120",
+			"TextBoxHeight" : "32",
+			"TextBoxText" : " Kid Spawn",
+			
+			"LabelColor": "White",
+			"LabelBackColor" : "30, 101, 42",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "11",
+			"LabelFontStyle" : "Bold",
+			"LabelWidth" : "120",
+			"LabelHeight" : "32"
+		},
+		{
+			"Name" : "MainPanelAdultSpawn",
+			"X" : "279",
+			"Y" : "663",
+			"Visible" : "true",
+			"BackColor" : "30, 101, 42",
+			"Width" : "120",
+			"Height" : "32",
+			"NbMaxRows" : "1",
+			"IsScrollable" : "false",
+			
+			"TextBoxName" : "TextBox_Barren1",
+			"TextBoxBackColor" : "30, 101, 42",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "11",
+			"TextBoxFontStyle" : "Bold",
+			"TextBoxWidth" : "120",
+			"TextBoxHeight" : "32",
+			"TextBoxText" : " Adult Spawn",
+			
+			"LabelColor": "White",
+			"LabelBackColor" : "30, 101, 42",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "11",
+			"LabelFontStyle" : "Bold",
+			"LabelWidth" : "120",
+			"LabelHeight" : "32"
+		}
+	]
 }
