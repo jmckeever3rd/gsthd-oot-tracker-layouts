@@ -399,6 +399,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sold-out_32x32.png",
+				"sold-out_32x32.png",
 			],
 		},
 		{
@@ -409,6 +410,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sold-out_32x32.png",
+				"sold-out_32x32.png",
 			],
 		},
 		{
@@ -418,6 +420,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
+				"sold-out_32x32.png",
 				"sold-out_32x32.png",
 			],
 		},			
@@ -1440,7 +1443,7 @@
 			"TextBoxText" : "Barren",
 			
 			"LabelColor": "White",
-			"LabelBackColor" : "IndianRed",
+			"LabelBackColor" : "103, 29, 29",
 			"LabelFontName" : "Calibri",
 			"LabelFontSize" : "11",
 			"LabelFontStyle" : "Bold",
@@ -1468,7 +1471,7 @@
 			"TextBoxText" : "",
 			
 			"LabelColor": "White",
-			"LabelBackColor" : "IndianRed",
+			"LabelBackColor" : "103, 29, 29",
 			"LabelFontName" : "Calibri",
 			"LabelFontSize" : "11",
 			"LabelFontStyle" : "Bold",
@@ -1496,7 +1499,7 @@
 			"TextBoxText" : "",
 			
 			"LabelColor": "White",
-			"LabelBackColor" : "IndianRed",
+			"LabelBackColor" : "103, 29, 29",
 			"LabelFontName" : "Calibri",
 			"LabelFontSize" : "11",
 			"LabelFontStyle" : "Bold",
