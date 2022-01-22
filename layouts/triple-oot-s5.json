@@ -6,13 +6,13 @@
 		"DefaultSongMarkerPosition": "10, 10",
 		"DefaultSongMarkerImages" : [
 			"no-song_16x16.png",
-			"check-song_16x16.png",
+			"check-song_16x16.png"
 		],
 		"DefaultGossipStoneImages" : [
 			"gossip-stone-bw_32x32.png",
 			"sold-out_32x32.png",
 			"bottle-empty_32x32.png",
-			"bottle-big-poe_32x32.png",
+			"bottle-big-poe_32x32.png"
 		],
 		"WothColors" : [
 			"White",
@@ -33,14 +33,14 @@
 				"FIRE",
 				"WATR",
 				"SHDW",
-				"SPRT",
+				"SPRT"
 			],
 			"DefaultValue" : "4",
 			"Wraparound" : "false",
 			"FontName" : "Consolas",
 			"FontSize": "11",
-			"FontStyle" : "Bold",
-		},
+			"FontStyle" : "Bold"
+		}
 	},
 	"Items" : [
 		{
@@ -51,8 +51,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sticks-bw_32x32.png",
-				"sticks_32x32.png",
-			],
+				"sticks_32x32.png"
+			]
 		},
 		{
 			"Name" : "DekuNuts",
@@ -62,7 +62,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"nuts-bw_32x32.png",
-				"nuts_32x32.png",
+				"nuts_32x32.png"
 			]
 		},
 		{
@@ -73,8 +73,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bombs-bw_32x32.png",
-				"bombs_32x32.png",
-			],
+				"bombs_32x32.png"
+			]
 		},
 		{
 			"Name": "Bow",
@@ -84,8 +84,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bow-bw_32x32.png",
-				"bow_32x32.png",
-			],
+				"bow_32x32.png"
+			]
 		},
 		{
 			"Name" : "FireArrows",
@@ -95,8 +95,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"fire-arrows-bw_32x32.png",
-				"fire-arrows_32x32.png",
-			],
+				"fire-arrows_32x32.png"
+			]
 		},
 		{
 			"Name" : "DinsFire",
@@ -106,8 +106,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"dins-fire-bw_32x32.png",
-				"dins-fire_32x32.png",
-			],
+				"dins-fire_32x32.png"
+			]
 		},
 		{
 			"Name" : "Slingshot",
@@ -117,8 +117,8 @@
 			"Size" : "32, 32",
 			"ImageCollection" : [
 				"slingshot-bw_32x32.png",
-				"slingshot_32x32.png",
-			],
+				"slingshot_32x32.png"
+			]
 		},
 		{
 			"Name" : "Ocarina",
@@ -129,8 +129,8 @@
 			"ImageCollection" : [
 				"ocarina-bw_32x32.png",
 				"ocarina_32x32.png",
-				"ocarina-of-time_32x32.png",
-			],
+				"ocarina-of-time_32x32.png"
+			]
 		},
 		
 		{
@@ -141,8 +141,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bomb-chu-bw_32x32.png",
-				"bomb-chu_32x32.png",
-			],
+				"bomb-chu_32x32.png"
+			]
 		},
 		{
 			"Name" : "Hookshot",
@@ -153,8 +153,8 @@
 			"ImageCollection" : [
 				"hookshot-bw_32x32.png",
 				"hookshot_32x32.png",
-				"longshot_32x32.png",
-			],
+				"longshot_32x32.png"
+			]
 		},
 		{
 			"Name" : "LightArrows",
@@ -164,8 +164,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"light-arrows-bw_32x32.png",
-				"light-arrows_32x32.png",
-			],
+				"light-arrows_32x32.png"
+			]
 		},
 		{
 			"Name" : "FaroresWind",
@@ -175,8 +175,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"farores-wind-bw_32x32.png",
-				"farores-wind_32x32.png",
-			],
+				"farores-wind_32x32.png"
+			]
 		},
 		{
 			"Name" : "Boomerang",
@@ -186,8 +186,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"boomerang-bw_32x32.png",
-				"boomerang_32x32.png",
-			],
+				"boomerang_32x32.png"
+			]
 		},
 		{
 			"Name" : "Lens",
@@ -197,8 +197,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"lens-bw_32x32.png",
-				"lens_32x32.png",
-			],
+				"lens_32x32.png"
+			]
 		},
 		{
 			"Name" : "Beans",
@@ -208,8 +208,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"beans-bw_32x32.png",
-				"beans_32x32.png",
-			],
+				"beans_32x32.png"
+			]
 		},
 		{
 			"Name" : "Hammer",
@@ -219,8 +219,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"hammer-bw_32x32.png",
-				"hammer_32x32.png",
-			],
+				"hammer_32x32.png"
+			]
 		},
 		{
 			"Name" : "KokiriSword",
@@ -230,7 +230,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"kokiri-sword-bw_32x32.png",
-				"kokiri-sword_32x32.png",
+				"kokiri-sword_32x32.png"
 			]
 		},	
 		{
@@ -241,7 +241,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"biggoron-sword-bw_32x32.png",
-				"biggoron-sword_32x32.png",
+				"biggoron-sword_32x32.png"
 			]
 		},
 		{
@@ -255,7 +255,7 @@
 				"triple/bottle1.png",
 				"triple/bottle2.png",
 				"triple/bottle3.png",
-				"triple/bottle4.png",
+				"triple/bottle4.png"
 			]
 		},
 		{
@@ -266,7 +266,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bottle-rutos-letter-bw_32x32.png",
-				"bottle-rutos-letter_32x32.png",
+				"bottle-rutos-letter_32x32.png"
 			]
 		},
 		{
@@ -279,7 +279,7 @@
 				"zeldas-letter_32x32.png",
 				"keaton-mask_32x32.png",
 				"sold-out_32x32.png",
-				"skull-mask_32x32.png",
+				"skull-mask_32x32.png"
 			]
 		},
 		{
@@ -293,7 +293,7 @@
 				"prescription_32x32.png",
 				"kz-frog_32x32.png",
 				"eye-drops_32x32.png",
-				"claim-check_32x32.png",
+				"claim-check_32x32.png"
 			]
 		},
 		{
