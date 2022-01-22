@@ -51,7 +51,9 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sticks-bw_32x32.png",
-				"sticks_32x32.png"
+				"triple/items/sticks10_32x32.png",
+				"triple/items/sticks20_32x32.png",
+				"triple/items/sticks30_32x32.png"
 			]
 		},
 		{
@@ -62,7 +64,9 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"nuts-bw_32x32.png",
-				"nuts_32x32.png"
+				"triple/items/nuts20_32x32.png",
+				"triple/items/nuts30_32x32.png",
+				"triple/items/nuts40_32x32.png"
 			]
 		},
 		{
@@ -73,7 +77,10 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bombs-bw_32x32.png",
-				"bombs_32x32.png"
+				"triple/items/bombs20_32x32.png",
+				"triple/items/bombs30_32x32.png",
+				"triple/items/bombs40_32x32.png"
+
 			]
 		},
 		{
@@ -84,7 +91,9 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bow-bw_32x32.png",
-				"bow_32x32.png"
+				"triple/items/bow30_32x32.png",
+				"triple/items/bow40_32x32.png",
+				"triple/items/bow50_32x32.png"
 			]
 		},
 		{
@@ -117,7 +126,9 @@
 			"Size" : "32, 32",
 			"ImageCollection" : [
 				"slingshot-bw_32x32.png",
-				"slingshot_32x32.png"
+				"triple/items/slingshot30_32x32.png",
+				"triple/items/slingshot40_32x32.png",
+				"triple/items/slingshot50_32x32.png"
 			]
 		},
 		{
@@ -151,9 +162,9 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"hookshot-bw_32x32.png",
-				"hookshot_32x32.png",
-				"longshot_32x32.png"
+				"triple/items/hookshot-bw_32x32.png",
+				"triple/items/hookshot_32x32.png",
+				"triple/items/longshot_32x32.png"
 			]
 		},
 		{
@@ -208,7 +219,16 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"beans-bw_32x32.png",
-				"beans_32x32.png"
+				"triple/items/beans1_32x32.png",
+				"triple/items/beans2_32x32.png",
+				"triple/items/beans3_32x32.png",
+				"triple/items/beans4_32x32.png",
+				"triple/items/beans5_32x32.png",
+				"triple/items/beans6_32x32.png",
+				"triple/items/beans7_32x32.png",
+				"triple/items/beans8_32x32.png",
+				"triple/items/beans9_32x32.png",
+				"triple/items/beans10_32x32.png"
 			]
 		},
 		{
@@ -252,10 +272,10 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bottle-empty-bw_32x32.png",
-				"triple/bottle1.png",
-				"triple/bottle2.png",
-				"triple/bottle3.png",
-				"triple/bottle4.png"
+				"triple/items/bottle1_32x32.png",
+				"triple/items/bottle2_32x32.png",
+				"triple/items/bottle3_32x32.png",
+				"triple/items/bottle4_32x32.png"
 			]
 		},
 		{
@@ -358,28 +378,6 @@
 				"strength2_32x32.png",
 				"strength3_32x32.png"
 			]
-		},
-		{
-			"Name" : "IronBoots",
-			"X" : "188",
-			"Y" : "240",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"iron-boots-bw_32x32.png",
-				"iron-boots_32x32.png"
-			]
-		},
-		{
-			"Name" : "HoverBoots",
-			"X" : "230",
-			"Y" : "240",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"hover-boots-bw_32x32.png",
-				"hover-boots_32x32.png"
-			]
 		}
 	],
 	"DoubleItems" : [
@@ -396,6 +394,21 @@
 				"goron-zora-tunics_32x32.png",
 				"goron-tunic_32x32.png",
 				"zora-tunic_32x32.png"
+			]
+		},
+		{
+			"Name" : "Boots",
+			"X" : "188",
+			"Y" : "240",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"iron-hover-boots-bw_32x32.png",
+				"half-iron-boots_32x32.png",
+				"half-hover-boots_32x32.png",
+				"iron-hover-boots_32x32.png",
+				"iron-boots_32x32.png",
+				"hover-boots_32x32.png"
 			]
 		}
 	],	
@@ -1055,10 +1068,10 @@
 	"GoMode": [
 		{
 			"Name" : "GoMode",
-			"X" : "270",
-			"Y" : "500",
+			"X" : "230",
+			"Y" : "240",
 			"Size" : "32, 32",
-			"Visible" : "false",
+			"Visible" : "true",
 			"ImageCollection" : [
 				"go-mode-bw_32x32.png",
 				"go-mode_32x32.png"
