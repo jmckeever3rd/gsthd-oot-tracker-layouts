@@ -337,9 +337,9 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"wallet-bw_32x32.png",
-				"wallet2_32x32.png",
-				"wallet3_32x32.png"
+				"triple/items/wallet99-bw_32x32.png",
+				"triple/items/wallet200_32x32.png",
+				"triple/items/wallet500_32x32.png"
 			]
 		},
 		{
