@@ -299,7 +299,7 @@
 				"zeldas-letter_32x32.png",
 				"keaton-mask_32x32.png",
 				"sold-out_32x32.png",
-				"skull-mask_32x32.png"
+				"skull-mask2_32x32.png"
 			]
 		},
 		{
@@ -476,8 +476,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"suns-song-bw_32x40.png",
-				"suns-song_32x40.png"
+				"triple/songs/suns-song-bw_32x40.png",
+				"triple/songs/suns-song_32x40.png"
 			]
 		},
 		{
@@ -500,8 +500,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"song-of-storms-bw_32x40.png",
-				"song-of-storms_32x40.png"
+				"triple/songs/song-of-storms-bw_32x40.png",
+				"triple/songs/song-of-storms_32x40.png"
 			]
 		},
 		{
@@ -512,8 +512,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"minuet-bw_32x40.png",
-				"minuet_32x40.png"
+				"triple/songs/song-note-bw_32x40.png",
+				"triple/songs/song-note-green_32x40.png",
 			]
 		},
 		{
@@ -524,8 +524,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"bolero-bw_32x40.png",
-				"bolero_32x40.png"
+				"triple/songs/song-note-bw_32x40.png",
+				"triple/songs/song-note-red_32x40.png",
 			]
 		},
 		
@@ -537,8 +537,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"serenade-bw_32x40.png",
-				"serenade_32x40.png"
+				"triple/songs/song-note-bw_32x40.png",
+				"triple/songs/song-note-blue_32x40.png",
 			]
 		},
 		{
@@ -549,8 +549,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"nocturne-bw_32x40.png",
-				"nocturne_32x40.png"
+				"triple/songs/song-note-bw_32x40.png",
+				"triple/songs/song-note-orange_32x40.png",
 			]
 		},
 		{
@@ -561,8 +561,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"requiem-bw_32x40.png",
-				"requiem_32x40.png"
+				"triple/songs/song-note-bw_32x40.png",
+				"triple/songs/song-note-purple_32x40.png",
 			]
 		},
 		{
@@ -573,8 +573,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"prelude-bw_32x40.png",
-				"prelude_32x40.png"
+				"triple/songs/song-note-bw_32x40.png",
+				"triple/songs/song-note-yellow_32x40.png",
 			]
 		}
 	],
@@ -727,7 +727,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"skull-mask_32x32.png"
+				"skull-mask2_32x32.png"
 			]
 		},
 		
