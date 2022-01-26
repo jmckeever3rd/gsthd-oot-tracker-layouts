@@ -586,7 +586,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/forestmedallion_fade_32x32.png",
+				"triple/forestmedallion-bw_32x32.png",
 				"triple/forestmedallion_32x32.png"
 			]
 		},
@@ -597,7 +597,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/firemedallion_fade_32x32.png",
+				"triple/firemedallion-bw_32x32.png",
 				"triple/firemedallion_32x32.png"
 			]
 		},
@@ -608,30 +608,31 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/watermedallion_fade_32x32.png",
+				"triple/watermedallion-bw_32x32.png",
 				"triple/watermedallion_32x32.png"
 			]
 		},
+		
 		{
-			"Name" : "PurpleMedallion",
+			"Name" : "OrangeMedallion",
 			"X" : "164",
 			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/shadowmedallion_fade_32x32.png",
-				"triple/shadowmedallion_32x32.png"
+				"triple/spiritmedallion-bw_32x32.png",
+				"triple/spiritmedallion_32x32.png"
 			]
 		},
 		{
-			"Name" : "OrangeMedallion",
+			"Name" : "PurpleMedallion",
 			"X" : "212",
 			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/spiritmedallion_fade_32x32.png",
-				"triple/spiritmedallion_32x32.png"
+				"triple/shadowmedallion-bw_32x32.png",
+				"triple/shadowmedallion_32x32.png"
 			]
 		},
 		{
@@ -641,7 +642,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/lightmedallion_fade_32x32.png",
+				"triple/lightmedallion-bw_32x32.png",
 				"triple/lightmedallion_32x32.png"
 			]
 		},
@@ -652,7 +653,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/emerald-fade_32x32.png",
+				"triple/emerald-bw_32x32.png",
 				"triple/emerald_32x32.png"
 			]
 		},
@@ -663,7 +664,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/ruby-fade_32x32.png",
+				"triple/ruby-bw_32x32.png",
 				"triple/ruby_32x32.png"
 			]
 		},

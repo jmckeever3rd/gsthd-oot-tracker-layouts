@@ -1,6 +1,6 @@
 /GSTHD
 /.vs
-
+/packages
 gsthd.exe
 newtonsoft.Json.dll
 newtonsoft.json.xml
