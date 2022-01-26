@@ -423,7 +423,7 @@
 			"CountMax": "50",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/skulltula_64x32.png"
+				"triple/gold-skulltula-token_64x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -688,7 +688,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/30-gold-skulltula-01_32x32.png"
+				"triple/30-gold-skulltula_32x32.png"
 			]
 		},
 		{
@@ -698,7 +698,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/40-gold-skulltula-01_32x32.png"
+				"triple/40-gold-skulltula_32x32.png"
 			]
 		},
 		{
@@ -708,7 +708,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/50-gold-skulltula-01_32x32.png"
+				"triple/50-gold-skulltula_32x32.png"
 			]
 		},
 		{
