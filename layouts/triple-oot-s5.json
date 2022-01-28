@@ -513,7 +513,7 @@
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-green_32x40.png",
+				"triple/songs/song-note-green_32x40.png"
 			]
 		},
 		{
@@ -525,7 +525,7 @@
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-red_32x40.png",
+				"triple/songs/song-note-red_32x40.png"
 			]
 		},
 		
@@ -538,7 +538,7 @@
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-blue_32x40.png",
+				"triple/songs/song-note-blue_32x40.png"
 			]
 		},
 		{
@@ -550,7 +550,7 @@
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-orange_32x40.png",
+				"triple/songs/song-note-orange_32x40.png"
 			]
 		},
 		{
@@ -562,7 +562,7 @@
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-purple_32x40.png",
+				"triple/songs/song-note-purple_32x40.png"
 			]
 		},
 		{
@@ -574,7 +574,7 @@
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
 				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-yellow_32x40.png",
+				"triple/songs/song-note-yellow_32x40.png"
 			]
 		}
 	],
@@ -675,7 +675,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/sapphire-fade_32x32.png",
+				"triple/sapphire-bw_32x32.png",
 				"triple/sapphire_32x32.png"
 			]
 		}
