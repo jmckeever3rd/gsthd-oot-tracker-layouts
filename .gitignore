@@ -6,10 +6,10 @@ gsthd.exe
 newtonsoft.Json.dll
 newtonsoft.json.xml
 oot_places.json
+settings.json
 sometimes_hints_old.json
 sometimes_hints.json
 gsthd.sln
 license.md
 readme.md
-
-layouts/_archive
+layouts/_archivesettings.json
