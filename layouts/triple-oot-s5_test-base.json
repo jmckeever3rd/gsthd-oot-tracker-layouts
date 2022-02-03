@@ -50,9 +50,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sticks-bw_32x32.png",
-				"triple/items/sticks10_32x32.png",
-				"triple/items/sticks20_32x32.png",
-				"triple/items/sticks30_32x32.png"
+				"sticks-bw_32x32.png"
 			]
 		},
 		{
@@ -63,9 +61,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"nuts-bw_32x32.png",
-				"triple/items/nuts20_32x32.png",
-				"triple/items/nuts30_32x32.png",
-				"triple/items/nuts40_32x32.png"
+				"nuts_32x32.png"
 			]
 		},
 		{
@@ -76,10 +72,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bombs-bw_32x32.png",
-				"triple/items/bombs20_32x32.png",
-				"triple/items/bombs30_32x32.png",
-				"triple/items/bombs40_32x32.png"
-
+				"bombs_32x32.png"
 			]
 		},
 		{
@@ -90,9 +83,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bow-bw_32x32.png",
-				"triple/items/bow30_32x32.png",
-				"triple/items/bow40_32x32.png",
-				"triple/items/bow50_32x32.png"
+				"bow_32x32.png"
 			]
 		},
 		{
@@ -125,9 +116,7 @@
 			"Size" : "32, 32",
 			"ImageCollection" : [
 				"slingshot-bw_32x32.png",
-				"triple/items/slingshot30_32x32.png",
-				"triple/items/slingshot40_32x32.png",
-				"triple/items/slingshot50_32x32.png"
+				"slingshot_32x32.png"
 			]
 		},
 		{
@@ -161,9 +150,9 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/items/hookshot-bw_32x32.png",
-				"triple/items/hookshot_32x32.png",
-				"triple/items/longshot_32x32.png"
+				"hookshot-bw_32x32.png",
+				"hookshot_32x32.png",
+				"longshot_32x32.png"
 			]
 		},
 		{
@@ -218,16 +207,7 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"beans-bw_32x32.png",
-				"triple/items/beans1_32x32.png",
-				"triple/items/beans2_32x32.png",
-				"triple/items/beans3_32x32.png",
-				"triple/items/beans4_32x32.png",
-				"triple/items/beans5_32x32.png",
-				"triple/items/beans6_32x32.png",
-				"triple/items/beans7_32x32.png",
-				"triple/items/beans8_32x32.png",
-				"triple/items/beans9_32x32.png",
-				"triple/items/beans10_32x32.png"
+				"beans_32x32.png"
 			]
 		},
 		{
@@ -271,23 +251,10 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bottle-empty-bw_32x32.png",
-				"triple/items/bottle1_32x32.png",
-				"triple/items/bottle2_32x32.png",
-				"triple/items/bottle3_32x32.png",
-				"triple/items/bottle4_32x32.png"
+				"bottle-empty_32x32.png"
 			]
 		},
-		{
-			"Name" : "RutosLetter",
-			"X" : "62",
-			"Y" : "198",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"bottle-rutos-letter-bw_32x32.png",
-				"bottle-rutos-letter_32x32.png"
-			]
-		},
+	
 		{
 			"Name" : "ChildTrading",
 			"X" : "104",
@@ -336,9 +303,9 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/items/wallet99_32x32.png",
-				"triple/items/wallet200_32x32.png",
-				"triple/items/wallet500_32x32.png"
+				"wallet-bw_32x32.png",
+				"wallet2_32x32.png",
+				"wallet3_32x32.png"
 			]
 		},
 		{
@@ -422,7 +389,25 @@
 			"CountMax": "50",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/gold-skulltula-token_64x32.png"
+				"collected-skulltulas_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "RutosLetter",
+			"X" : "62",
+			"Y" : "198",
+			"Size" : "32, 32",
+			"CountPosition" : "0, 0",
+			"Step" : "1",
+			"CountMax": "50",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"bottle-rutos-letter-bw_32x32.png",
+				"bottle-rutos-letter_32x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -475,8 +460,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/suns-song-bw_32x40.png",
-				"triple/songs/suns-song_32x40.png"
+				"suns-song-bw_32x40.png",
+				"suns-song_32x40.png"
 			]
 		},
 		{
@@ -499,8 +484,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-of-storms-bw_32x40.png",
-				"triple/songs/song-of-storms_32x40.png"
+				"song-of-storms-bw_32x40.png",
+				"song-of-storms_32x40.png"
 			]
 		},
 		{
@@ -511,8 +496,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-green_32x40.png"
+				"minuet-bw_32x40.png",
+				"minuet_32x40.png"
 			]
 		},
 		{
@@ -523,8 +508,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-red_32x40.png"
+				"bolero-bw_32x40.png",
+				"bolero_32x40.png"
 			]
 		},
 		
@@ -536,8 +521,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-blue_32x40.png"
+				"serenade-bw_32x40.png",
+				"serenade_32x40.png"
 			]
 		},
 		{
@@ -548,8 +533,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-orange_32x40.png"
+				"requiem-bw_32x40.png",
+				"requiem_32x40.png"
 			]
 		},
 		{
@@ -560,8 +545,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-purple_32x40.png"
+				"nocturne-bw_32x40.png",
+				"nocturne_32x40.png"
 			]
 		},
 		{
@@ -572,8 +557,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-yellow_32x40.png"
+				"prelude-bw_32x40.png",
+				"prelude_32x40.png"
 			]
 		}
 	],
@@ -585,8 +570,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/forestmedallion-bw_32x32.png",
-				"triple/forestmedallion_32x32.png"
+				"green-medallion-bw_32x32.png",
+				"green-medallion_32x32.png"
 			]
 		},
 		{
@@ -596,8 +581,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/firemedallion-bw_32x32.png",
-				"triple/firemedallion_32x32.png"
+				"red-medallion-bw_32x32.png",
+				"red-medallion_32x32.png"
 			]
 		},
 		{
@@ -607,30 +592,31 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/watermedallion-bw_32x32.png",
-				"triple/watermedallion_32x32.png"
+				"blue-medallion-bw_32x32.png",
+				"blue-medallion_32x32.png"
 			]
 		},
+		
 		{
-			"Name" : "PurpleMedallion",
+			"Name" : "OrangeMedallion",
 			"X" : "164",
 			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/shadowmedallion-bw_32x32.png",
-				"triple/shadowmedallion_32x32.png"
+				"orange-medallion-bw_32x32.png",
+				"orange-medallion_32x32.png"
 			]
 		},
 		{
-			"Name" : "OrangeMedallion",
+			"Name" : "PurpleMedallion",
 			"X" : "212",
 			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/spiritmedallion-bw_32x32.png",
-				"triple/spiritmedallion_32x32.png"
+				"purple-medallion-bw_32x32.png",
+				"purple-medallion_32x32.png"
 			]
 		},
 		{
@@ -640,8 +626,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/lightmedallion-bw_32x32.png",
-				"triple/lightmedallion_32x32.png"
+				"yellow-medallion-bw_32x32.png",
+				"yellow-medallion_32x32.png"
 			]
 		},
 		{
@@ -651,8 +637,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/emerald-bw_32x32.png",
-				"triple/emerald_32x32.png"
+				"kokiri-stone-bw_32x32.png",
+				"kokiri-stone_32x32.png"
 			]
 		},
 		{
@@ -662,8 +648,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/ruby-bw_32x32.png",
-				"triple/ruby_32x32.png"
+				"goron-stone-bw_32x32.png",
+				"goron-stone_32x32.png"
 			]
 		},
 		{
@@ -673,8 +659,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/sapphire-bw_32x32.png",
-				"triple/sapphire_32x32.png"
+				"zora-stone-bw_32x32.png",
+				"zora-stone_32x32.png"
 			]
 		}
 	],
@@ -686,7 +672,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/30-gold-skulltula_32x32.png"
+				"30-gold-skulltula_32x32.png"
 			]
 		},
 		{
@@ -696,7 +682,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/40-gold-skulltula_32x32.png"
+				"40-gold-skulltula_32x32.png"
 			]
 		},
 		{
@@ -706,7 +692,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/50-gold-skulltula_32x32.png"
+				"50-gold-skulltula_32x32.png"
 			]
 		},
 		{
@@ -726,7 +712,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"skull-mask2_32x32.png"
+				"skull-mask_32x32.png"
 			]
 		},
 		
@@ -901,15 +887,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"gossip-stone-bw_32x32.png"
 			]
 		},
 		{
@@ -919,15 +897,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"gossip-stone-bw_32x32.png"
 			]
 		},
 		{
@@ -937,15 +907,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"gossip-stone-bw_32x32.png"
 			]
 		},
 		{
@@ -955,15 +917,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"gossip-stone-bw_32x32.png"
 			]
 		},
 		{
@@ -973,15 +927,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"gossip-stone-bw_32x32.png"
 			]
 		},
 		{
@@ -991,15 +937,7 @@
 			"Size" : "32, 32",
 			"Visible" : "false",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/emerald_32x32.png",
-				"triple/ruby_32x32.png",
-				"triple/sapphire_32x32.png",
-				"triple/forestmedallion_32x32.png",
-				"triple/firemedallion_32x32.png",
-				"triple/watermedallion_32x32.png",
-				"triple/shadowmedallion_32x32.png",
-				"triple/spiritmedallion_32x32.png"
+				"gossip-stone-bw_32x32.png"
 			]
 		},
 		{
@@ -1042,8 +980,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/link-child-art_32x32.png",
-				"triple/link-child-art_32x32.png"
+				"kokiri-sword_32x32.png",
+				"kokiri-sword_32x32.png"
 			]
 		},
 		{
@@ -1053,8 +991,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/link-adult-art_32x32.png",
-				"triple/link-adult-art_32x32.png"
+				"master-sword_32x32.png",
+				"master-sword_32x32.png"
 			]
 		}
 	],

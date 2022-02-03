@@ -277,17 +277,7 @@
 				"triple/items/bottle4_32x32.png"
 			]
 		},
-		{
-			"Name" : "RutosLetter",
-			"X" : "62",
-			"Y" : "198",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"bottle-rutos-letter-bw_32x32.png",
-				"bottle-rutos-letter_32x32.png"
-			]
-		},
+	
 		{
 			"Name" : "ChildTrading",
 			"X" : "104",
@@ -423,6 +413,24 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"triple/gold-skulltula-token_64x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "RutosLetter",
+			"X" : "62",
+			"Y" : "198",
+			"Size" : "32, 32",
+			"CountPosition" : "0, 0",
+			"Step" : "1",
+			"CountMax": "50",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"bottle-rutos-letter-bw_32x32.png",
+				"bottle-rutos-letter_32x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -611,26 +619,27 @@
 				"triple/watermedallion_32x32.png"
 			]
 		},
-		{
-			"Name" : "PurpleMedallion",
-			"X" : "164",
-			"Y" : "20",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"triple/shadowmedallion-bw_32x32.png",
-				"triple/shadowmedallion_32x32.png"
-			]
-		},
+		
 		{
 			"Name" : "OrangeMedallion",
-			"X" : "212",
+			"X" : "164",
 			"Y" : "20",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
 				"triple/spiritmedallion-bw_32x32.png",
 				"triple/spiritmedallion_32x32.png"
+			]
+		},
+		{
+			"Name" : "PurpleMedallion",
+			"X" : "212",
+			"Y" : "20",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple/shadowmedallion-bw_32x32.png",
+				"triple/shadowmedallion_32x32.png"
 			]
 		},
 		{
