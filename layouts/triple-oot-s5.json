@@ -50,9 +50,9 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"sticks-bw_32x32.png",
-				"triple/items/sticks10_32x32.png",
-				"triple/items/sticks20_32x32.png",
-				"triple/items/sticks30_32x32.png"
+				"triple-oot-icons/items/sticks10_32x32.png",
+				"triple-oot-icons/items/sticks20_32x32.png",
+				"triple-oot-icons/items/sticks30_32x32.png"
 			]
 		},
 		{
@@ -63,9 +63,9 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"nuts-bw_32x32.png",
-				"triple/items/nuts20_32x32.png",
-				"triple/items/nuts30_32x32.png",
-				"triple/items/nuts40_32x32.png"
+				"triple-oot-icons/items/nuts20_32x32.png",
+				"triple-oot-icons/items/nuts30_32x32.png",
+				"triple-oot-icons/items/nuts40_32x32.png"
 			]
 		},
 		{
@@ -76,9 +76,9 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bombs-bw_32x32.png",
-				"triple/items/bombs20_32x32.png",
-				"triple/items/bombs30_32x32.png",
-				"triple/items/bombs40_32x32.png"
+				"triple-oot-icons/items/bombs20_32x32.png",
+				"triple-oot-icons/items/bombs30_32x32.png",
+				"triple-oot-icons/items/bombs40_32x32.png"
 
 			]
 		},
@@ -90,9 +90,9 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bow-bw_32x32.png",
-				"triple/items/bow30_32x32.png",
-				"triple/items/bow40_32x32.png",
-				"triple/items/bow50_32x32.png"
+				"triple-oot-icons/items/bow30_32x32.png",
+				"triple-oot-icons/items/bow40_32x32.png",
+				"triple-oot-icons/items/bow50_32x32.png"
 			]
 		},
 		{
@@ -125,9 +125,9 @@
 			"Size" : "32, 32",
 			"ImageCollection" : [
 				"slingshot-bw_32x32.png",
-				"triple/items/slingshot30_32x32.png",
-				"triple/items/slingshot40_32x32.png",
-				"triple/items/slingshot50_32x32.png"
+				"triple-oot-icons/items/slingshot30_32x32.png",
+				"triple-oot-icons/items/slingshot40_32x32.png",
+				"triple-oot-icons/items/slingshot50_32x32.png"
 			]
 		},
 		{
@@ -161,9 +161,9 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/items/hookshot-bw_32x32.png",
-				"triple/items/hookshot_32x32.png",
-				"triple/items/longshot_32x32.png"
+				"triple-oot-icons/items/hookshot-bw_32x32.png",
+				"triple-oot-icons/items/hookshot_32x32.png",
+				"triple-oot-icons/items/longshot_32x32.png"
 			]
 		},
 		{
@@ -218,16 +218,16 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"beans-bw_32x32.png",
-				"triple/items/beans1_32x32.png",
-				"triple/items/beans2_32x32.png",
-				"triple/items/beans3_32x32.png",
-				"triple/items/beans4_32x32.png",
-				"triple/items/beans5_32x32.png",
-				"triple/items/beans6_32x32.png",
-				"triple/items/beans7_32x32.png",
-				"triple/items/beans8_32x32.png",
-				"triple/items/beans9_32x32.png",
-				"triple/items/beans10_32x32.png"
+				"triple-oot-icons/items/beans1_32x32.png",
+				"triple-oot-icons/items/beans2_32x32.png",
+				"triple-oot-icons/items/beans3_32x32.png",
+				"triple-oot-icons/items/beans4_32x32.png",
+				"triple-oot-icons/items/beans5_32x32.png",
+				"triple-oot-icons/items/beans6_32x32.png",
+				"triple-oot-icons/items/beans7_32x32.png",
+				"triple-oot-icons/items/beans8_32x32.png",
+				"triple-oot-icons/items/beans9_32x32.png",
+				"triple-oot-icons/items/beans10_32x32.png"
 			]
 		},
 		{
@@ -271,10 +271,10 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bottle-empty-bw_32x32.png",
-				"triple/items/bottle1_32x32.png",
-				"triple/items/bottle2_32x32.png",
-				"triple/items/bottle3_32x32.png",
-				"triple/items/bottle4_32x32.png"
+				"triple-oot-icons/items/bottle1_32x32.png",
+				"triple-oot-icons/items/bottle2_32x32.png",
+				"triple-oot-icons/items/bottle3_32x32.png",
+				"triple-oot-icons/items/bottle4_32x32.png"
 			]
 		},
 		{
@@ -285,7 +285,8 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"bottle-rutos-letter-bw_32x32.png",
-				"bottle-rutos-letter_32x32.png"
+				"bottle-rutos-letter_32x32.png",
+				"bottle-rutos-letter-empty_32x32.png"
 			]
 		},
 		{
@@ -336,9 +337,9 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/items/wallet99_32x32.png",
-				"triple/items/wallet200_32x32.png",
-				"triple/items/wallet500_32x32.png"
+				"triple-oot-icons/items/wallet99_32x32.png",
+				"triple-oot-icons/items/wallet200_32x32.png",
+				"triple-oot-icons/items/wallet500_32x32.png"
 			]
 		},
 		{
@@ -422,7 +423,7 @@
 			"CountMax": "50",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/gold-skulltula-token_64x32.png"
+				"triple-oot-icons/gold-skulltula-token_64x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -475,8 +476,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/suns-song-bw_32x40.png",
-				"triple/songs/suns-song_32x40.png"
+				"triple-oot-icons/songs/suns-song-bw_32x40.png",
+				"triple-oot-icons/songs/suns-song_32x40.png"
 			]
 		},
 		{
@@ -499,8 +500,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-of-storms-bw_32x40.png",
-				"triple/songs/song-of-storms_32x40.png"
+				"triple-oot-icons/songs/song-of-storms-bw_32x40.png",
+				"triple-oot-icons/songs/song-of-storms_32x40.png"
 			]
 		},
 		{
@@ -511,8 +512,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-green_32x40.png"
+				"triple-oot-icons/songs/song-note-bw_32x40.png",
+				"triple-oot-icons/songs/song-note-green_32x40.png"
 			]
 		},
 		{
@@ -523,8 +524,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-red_32x40.png"
+				"triple-oot-icons/songs/song-note-bw_32x40.png",
+				"triple-oot-icons/songs/song-note-red_32x40.png"
 			]
 		},
 		
@@ -536,8 +537,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-blue_32x40.png"
+				"triple-oot-icons/songs/song-note-bw_32x40.png",
+				"triple-oot-icons/songs/song-note-blue_32x40.png"
 			]
 		},
 		{
@@ -548,8 +549,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-orange_32x40.png"
+				"triple-oot-icons/songs/song-note-bw_32x40.png",
+				"triple-oot-icons/songs/song-note-orange_32x40.png"
 			]
 		},
 		{
@@ -560,8 +561,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-purple_32x40.png"
+				"triple-oot-icons/songs/song-note-bw_32x40.png",
+				"triple-oot-icons/songs/song-note-purple_32x40.png"
 			]
 		},
 		{
@@ -572,8 +573,8 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple/songs/song-note-bw_32x40.png",
-				"triple/songs/song-note-yellow_32x40.png"
+				"triple-oot-icons/songs/song-note-bw_32x40.png",
+				"triple-oot-icons/songs/song-note-yellow_32x40.png"
 			]
 		}
 	],
@@ -585,8 +586,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/forestmedallion-bw_32x32.png",
-				"triple/forestmedallion_32x32.png"
+				"triple-oot-icons/medallions/forestmedallion-bw_32x32.png",
+				"triple-oot-icons/medallions/forestmedallion_32x32.png"
 			]
 		},
 		{
@@ -596,8 +597,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/firemedallion-bw_32x32.png",
-				"triple/firemedallion_32x32.png"
+				"triple-oot-icons/medallions/firemedallion-bw_32x32.png",
+				"triple-oot-icons/medallions/firemedallion_32x32.png"
 			]
 		},
 		{
@@ -607,8 +608,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/watermedallion-bw_32x32.png",
-				"triple/watermedallion_32x32.png"
+				"triple-oot-icons/medallions/watermedallion-bw_32x32.png",
+				"triple-oot-icons/medallions/watermedallion_32x32.png"
 			]
 		},
 		{
@@ -618,8 +619,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/shadowmedallion-bw_32x32.png",
-				"triple/shadowmedallion_32x32.png"
+				"triple-oot-icons/medallions/shadowmedallion-bw_32x32.png",
+				"triple-oot-icons/medallions/shadowmedallion_32x32.png"
 			]
 		},
 		{
@@ -629,8 +630,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/spiritmedallion-bw_32x32.png",
-				"triple/spiritmedallion_32x32.png"
+				"triple-oot-icons/medallions/spiritmedallion-bw_32x32.png",
+				"triple-oot-icons/medallions/spiritmedallion_32x32.png"
 			]
 		},
 		{
@@ -640,8 +641,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/lightmedallion-bw_32x32.png",
-				"triple/lightmedallion_32x32.png"
+				"triple-oot-icons/medallions/lightmedallion-bw_32x32.png",
+				"triple-oot-icons/medallions/lightmedallion_32x32.png"
 			]
 		},
 		{
@@ -651,8 +652,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/emerald-bw_32x32.png",
-				"triple/emerald_32x32.png"
+				"triple-oot-icons/stones/emerald-bw_32x32.png",
+				"triple-oot-icons/stones/emerald_32x32.png"
 			]
 		},
 		{
@@ -662,8 +663,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/ruby-bw_32x32.png",
-				"triple/ruby_32x32.png"
+				"triple-oot-icons/stones/ruby-bw_32x32.png",
+				"triple-oot-icons/stones/ruby_32x32.png"
 			]
 		},
 		{
@@ -673,8 +674,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/sapphire-bw_32x32.png",
-				"triple/sapphire_32x32.png"
+				"triple-oot-icons/stones/sapphire-bw_32x32.png",
+				"triple-oot-icons/stones/sapphire_32x32.png"
 			]
 		}
 	],
@@ -686,7 +687,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/30-gold-skulltula_32x32.png"
+				"triple-oot-icons/30-gold-skulltula_32x32.png"
 			]
 		},
 		{
@@ -696,7 +697,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/40-gold-skulltula_32x32.png"
+				"triple-oot-icons/40-gold-skulltula_32x32.png"
 			]
 		},
 		{
@@ -706,7 +707,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/50-gold-skulltula_32x32.png"
+				"triple-oot-icons/50-gold-skulltula_32x32.png"
 			]
 		},
 		{
@@ -726,7 +727,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"skull-mask2_32x32.png"
+				"triple-oot-icons/skull-mask2_32x32.png"
 			]
 		},
 		
@@ -901,15 +902,15 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/bosses/queen-gohma02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/dodongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/barinade02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/phantom-ganon02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/volvagia02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/morpha02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/bongo-bongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/twinrova02-round-frame_32x32.png"
 			]
 		},
 		{
@@ -919,15 +920,15 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/bosses/queen-gohma02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/dodongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/barinade02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/phantom-ganon02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/volvagia02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/morpha02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/bongo-bongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/twinrova02-round-frame_32x32.png"
 			]
 		},
 		{
@@ -937,15 +938,15 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/bosses/queen-gohma02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/dodongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/barinade02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/phantom-ganon02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/volvagia02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/morpha02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/bongo-bongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/twinrova02-round-frame_32x32.png"
 			]
 		},
 		{
@@ -955,15 +956,15 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/bosses/queen-gohma02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/dodongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/barinade02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/phantom-ganon02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/volvagia02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/morpha02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/bongo-bongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/twinrova02-round-frame_32x32.png"
 			]
 		},
 		{
@@ -973,15 +974,15 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/bosses/queen-gohma-art-round-frame_32x32.png",
-				"triple/bosses/dodongo-art-round-frame_32x32.png",
-				"triple/bosses/barinade-art-round-frame_32x32.png",
-				"triple/bosses/phantom-ganon-art-round-frame_32x32.png",
-				"triple/bosses/volvagia-art-round-frame_32x32.png",
-				"triple/bosses/morpha-art-round-frame_32x32.png",
-				"triple/bosses/bongo-bongo-art-round-frame_32x32.png",
-				"triple/bosses/twinrova-art-round-frame_32x32.png"
+				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/bosses/queen-gohma02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/dodongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/barinade02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/phantom-ganon02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/volvagia02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/morpha02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/bongo-bongo02-round-frame_32x32.png",
+				"triple-oot-icons/bosses/twinrova02-round-frame_32x32.png"
 			]
 		},
 		{
@@ -991,15 +992,15 @@
 			"Size" : "32, 32",
 			"Visible" : "false",
 			"ImageCollection" : [
-				"triple/triforce-medallion02_32x32.png",
-				"triple/emerald_32x32.png",
-				"triple/ruby_32x32.png",
-				"triple/sapphire_32x32.png",
-				"triple/forestmedallion_32x32.png",
-				"triple/firemedallion_32x32.png",
-				"triple/watermedallion_32x32.png",
-				"triple/shadowmedallion_32x32.png",
-				"triple/spiritmedallion_32x32.png"
+				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/emerald_32x32.png",
+				"triple-oot-icons/ruby_32x32.png",
+				"triple-oot-icons/sapphire_32x32.png",
+				"triple-oot-icons/forestmedallion_32x32.png",
+				"triple-oot-icons/firemedallion_32x32.png",
+				"triple-oot-icons/watermedallion_32x32.png",
+				"triple-oot-icons/shadowmedallion_32x32.png",
+				"triple-oot-icons/spiritmedallion_32x32.png"
 			]
 		},
 		{
@@ -1042,8 +1043,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/link-child-art_32x32.png",
-				"triple/link-child-art_32x32.png"
+				"triple-oot-icons/portraits/link-child01_32x32.png",
+				"triple-oot-icons/portraits/link-child01_32x32.png"
 			]
 		},
 		{
@@ -1053,8 +1054,8 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple/link-adult-art_32x32.png",
-				"triple/link-adult-art_32x32.png"
+				"triple-oot-icons/portraits/link-adult01_32x32.png",
+				"triple-oot-icons/portraits/link-adult01_32x32.png"
 			]
 		}
 	],
