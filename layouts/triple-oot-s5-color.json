@@ -873,7 +873,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png",
 				"triple-oot-icons/bosses/queen-gohma01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/dodongo01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/barinade01-round-frame_32x32.png",
@@ -891,7 +891,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png",
 				"triple-oot-icons/bosses/queen-gohma01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/dodongo01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/barinade01-round-frame_32x32.png",
@@ -909,7 +909,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png",
 				"triple-oot-icons/bosses/queen-gohma01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/dodongo01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/barinade01-round-frame_32x32.png",
@@ -927,7 +927,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png",
 				"triple-oot-icons/bosses/queen-gohma01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/dodongo01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/barinade01-round-frame_32x32.png",
@@ -945,7 +945,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
+				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png",
 				"triple-oot-icons/bosses/queen-gohma01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/dodongo01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/barinade01-round-frame_32x32.png",
@@ -954,24 +954,6 @@
 				"triple-oot-icons/bosses/morpha01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/bongo-bongo01-round-frame_32x32.png",
 				"triple-oot-icons/bosses/twinrova01-round-frame_32x32.png"
-			]
-		},
-		{
-			"Name" : "woth_icon6",
-			"X" : "20",
-			"Y" : "574",
-			"Size" : "32, 32",
-			"Visible" : "false",
-			"ImageCollection" : [
-				"triple-oot-icons/medallions/triforce-medallion02_32x32.png",
-				"triple-oot-icons/emerald_32x32.png",
-				"triple-oot-icons/ruby_32x32.png",
-				"triple-oot-icons/sapphire_32x32.png",
-				"triple-oot-icons/forestmedallion_32x32.png",
-				"triple-oot-icons/firemedallion_32x32.png",
-				"triple-oot-icons/watermedallion_32x32.png",
-				"triple-oot-icons/shadowmedallion_32x32.png",
-				"triple-oot-icons/spiritmedallion_32x32.png"
 			]
 		},
 		{
