@@ -2,7 +2,7 @@
 	"AppSize" : {
 		"Width": "471",
 		"Height": "800",
-		"BackgroundColor": "0, 0, 0",
+		"BackgroundColor": "22, 22, 22",
 		"DefaultSongMarkerImages" : [
 			"no-song_16x16.png",
 			"check-song_16x16.png"
