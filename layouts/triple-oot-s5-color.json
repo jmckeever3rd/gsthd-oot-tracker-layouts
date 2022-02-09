@@ -71,7 +71,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"bombs-dim_32x32.png",
+				"triple-oot-icons/items/bombs-dim_32x32.png",
 				"bombs_32x32.png"
 
 			]
@@ -83,7 +83,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"bow-dim_32x32.png",
+				"triple-oot-icons/items/bow-dim_32x32.png",
 				"bow_32x32.png"
 			]
 		},
@@ -94,7 +94,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"fire-arrows-dim_32x32.png",
+				"triple-oot-icons/items/fire-arrows-dim_32x32.png",
 				"fire-arrows_32x32.png"
 			]
 		},
@@ -105,7 +105,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"dins-fire-dim_32x32.png",
+				"triple-oot-icons/items/dins-fire-dim_32x32.png",
 				"dins-fire_32x32.png"
 			]
 		},
@@ -116,7 +116,7 @@
 			"Visible" : "true",
 			"Size" : "32, 32",
 			"ImageCollection" : [
-				"slingshot-dim_32x32.png",
+				"triple-oot-icons/items/slingshot-dim_32x32.png",
 				"slingshot_32x32.png"
 			]
 		},
@@ -139,7 +139,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"bomb-chu-dim_32x32.png",
+				"triple-oot-icons/items/bomb-chu-dim_32x32.png",
 				"bomb-chu_32x32.png"
 			]
 		},
@@ -162,7 +162,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"light-arrows-dim_32x32.png",
+				"triple-oot-icons/items/light-arrows-dim_32x32.png",
 				"light-arrows_32x32.png"
 			]
 		},
@@ -173,7 +173,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"farores-wind-dim_32x32.png",
+				"triple-oot-icons/items/farores-wind-dim_32x32.png",
 				"farores-wind_32x32.png"
 			]
 		},
@@ -184,7 +184,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"boomerang-dim_32x32.png",
+				"triple-oot-icons/items/boomerang-dim_32x32.png",
 				"boomerang_32x32.png"
 			]
 		},
@@ -195,7 +195,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"lens-dim_32x32.png",
+				"triple-oot-icons/items/lens-dim_32x32.png",
 				"lens_32x32.png"
 			]
 		},
@@ -206,7 +206,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"beans-dim_32x32.png",
+				"triple-oot-icons/items/beans-dim_32x32.png",
 				"triple-oot-icons/items/beans1_32x32.png",
 				"triple-oot-icons/items/beans2_32x32.png",
 				"triple-oot-icons/items/beans3_32x32.png",
@@ -226,7 +226,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"hammer-dim_32x32.png",
+				"triple-oot-icons/items/hammer-dim_32x32.png",
 				"hammer_32x32.png"
 			]
 		},
@@ -237,7 +237,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"kokiri-sword-dim_32x32.png",
+				"triple-oot-icons/items/kokiri-sword-dim_32x32.png",
 				"kokiri-sword_32x32.png"
 			]
 		},	
@@ -248,7 +248,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"biggoron-sword-dim_32x32.png",
+				"triple-oot-icons/items/biggoron-sword-dim_32x32.png",
 				"biggoron-sword_32x32.png"
 			]
 		},
@@ -259,7 +259,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"bottle-empty-dim_32x32.png",
+				"triple-oot-icons/items/bottle-empty-dim_32x32.png",
 				"triple-oot-icons/items/bottle1_32x32.png",
 				"triple-oot-icons/items/bottle2_32x32.png",
 				"triple-oot-icons/items/bottle3_32x32.png",
@@ -273,7 +273,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"bottle-rutos-letter-dim_32x32.png",
+				"triple-oot-icons/items/bottle-rutos-letter-dim_32x32.png",
 				"bottle-rutos-letter_32x32.png",
 				"bottle-rutos-letter-empty_32x32.png"
 			]
@@ -298,7 +298,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"prescription-dim_32x32.png",
+				"triple-oot-icons/items/prescription-dim_32x32.png",
 				"prescription_32x32.png",
 				"kz-frog_32x32.png",
 				"eye-drops_32x32.png",
@@ -315,7 +315,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"mirror-shield-dim_32x32.png",
+				"triple-oot-icons/items/mirror-shield-dim_32x32.png",
 				"mirror-shield_32x32.png"
 			]
 		},
@@ -338,7 +338,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"magic-dim_32x32.png",
+				"triple-oot-icons/items/magic-dim_32x32.png",
 				"magic_32x32.png",
 				"double-magic_32x32.png"
 			]
@@ -350,7 +350,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"scale-dim_32x32.png",
+				"triple-oot-icons/items/scale-dim_32x32.png",
 				"scale_32x32.png",
 				"golden-scale_32x32.png"
 			]
@@ -362,7 +362,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"strength-dim_32x32.png",
+				"triple-oot-icons/items/strength-dim_32x32.png",
 				"strength_32x32.png",
 				"strength2_32x32.png",
 				"strength3_32x32.png"
@@ -377,7 +377,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"goron-zora-tunics-dim_32x32.png",
+				"triple-oot-icons/items/goron-zora-tunics-dim_32x32.png",
 				"half-goron-tunic_32x32.png",
 				"half-zora-tunic_32x32.png",
 				"goron-zora-tunics_32x32.png",
@@ -392,7 +392,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"iron-hover-boots-dim_32x32.png",
+				"triple-oot-icons/items/iron-hover-boots-dim_32x32.png",
 				"half-iron-boots_32x32.png",
 				"half-hover-boots_32x32.png",
 				"iron-hover-boots_32x32.png",
@@ -429,7 +429,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"zeldas-lullaby-dim_32x40.png",
+				"triple-oot-icons/songs/zeldas-lullaby-dim_32x40.png",
 				"zeldas-lullaby_32x40.png"
 			]
 		},
@@ -441,7 +441,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"epona-dim_32x40.png",
+				"triple-oot-icons/songs/epona-dim_32x40.png",
 				"epona_32x40.png"
 			]
 		},
@@ -453,7 +453,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"saria-dim_32x40.png",
+				"triple-oot-icons/songs/saria-dim_32x40.png",
 				"saria_32x40.png"
 			]
 		},
@@ -477,7 +477,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"song-of-time-dim_32x40.png",
+				"triple-oot-icons/songs/song-of-time-dim_32x40.png",
 				"song-of-time_32x40.png"
 			]
 		},
