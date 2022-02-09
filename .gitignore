@@ -2,6 +2,8 @@
 /.vs
 /packages
 /layouts/sometimes_hints-s5.json
+/layouts/triple-oot-s5_test-base.json
+/layouts/triple-oot-s5_test.json
 gsthd.exe
 newtonsoft.Json.dll
 newtonsoft.json.xml
