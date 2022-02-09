@@ -1,11 +1,11 @@
-Custom Layouts for Hapax GSTHD with a focus on Season 5 ZOOTR settings.
+Custom Layouts for Hapax GSTHD with a focus on Season 5 ZOOTR settings. Features include:
 - WoTh w/ boss icons.
 - Link spawn panels.
 - Customized and updated icons for GSTHD
-- Black & white layout
-- Color layout
+- Black & white Season 5 layout
+- Color Season 5 layout
 
-Get Hapax's latest release of GSTHD tracker for Ocarina of Time Randomizer here
+## [>>> Get Hapax's latest release of GSTHD tracker for Ocarina of Time Randomizer here <<<](https://github.com/HapaxL/GSTHD/releases/latest)
 
 --------------------
 
@@ -49,4 +49,5 @@ Additional Control notes:
 
 --------------------
 Last tested on v0.3 of GSTHD.
+
 Note: Will not work with the original GST.
