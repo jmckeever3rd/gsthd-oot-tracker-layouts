@@ -677,13 +677,13 @@
 			]
 		},
 		{
-			"Name" : "SkulltulasHint_40",
+			"Name" : "Prelude_hint",
 			"X" : "292",
 			"Y" : "166",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple-oot-icons/40-gold-skulltula_32x32.png"
+				"triple-oot-icons/songs/song-note-yellow_32x40.png"
 			]
 		},
 		// {
@@ -747,7 +747,7 @@
 			"Visible" : "true"
 		},
 		{
-			"Name" : "SkulltulasHint_40_GossipStone",
+			"Name" : "Prelude_GossipStone",
 			"X" : "331",
 			"Y" : "170",
 			"Size" : "24, 24",
