@@ -687,26 +687,6 @@
 				"triple-oot-icons/songs/song-note-yellow_32x32.png"
 			]
 		},
-		// {
-		// 	"Name" : "SkulltulasHint_50",
-		// 	"X" : "292",
-		// 	"Y" : "213",
-		// 	"Size" : "32, 32",
-		// 	"Visible" : "true",
-		// 	"ImageCollection" : [
-		// 		"triple-oot-icons/50-gold-skulltula_32x32.png"
-		// 	]
-		// },
-		// {
-		// 	"Name" : "OcarinaOfTimeHint",
-		// 	"X" : "373",
-		// 	"Y" : "72",
-		// 	"Size" : "32, 32",
-		// 	"Visible" : "true",
-		// 	"ImageCollection" : [
-		// 		"ocarina-of-time_32x32.png"
-		// 	]
-		// },
 		{
 			"Name" : "SkullMaskHint",
 			"X" : "373",
@@ -716,18 +696,7 @@
 			"ImageCollection" : [
 				"triple-oot-icons/items/skull-mask2_32x32.png"
 			]
-		},
-		
-		// {
-		// 	"Name" : "BiggoronHint",
-		// 	"X" : "373",
-		// 	"Y" : "166",
-		// 	"Size" : "32, 32",
-		// 	"Visible" : "true",
-		// 	"ImageCollection" : [
-		// 		"biggoron_32x32.png"
-		// 	]
-		// },		
+		},	
 		{
 			"Name" : "FrogsHint",
 			"X" : "373",
@@ -769,20 +738,6 @@
 				"triple-oot-icons/songs/song-note-purple_32x32.png"
 			]
 		},
-		// {
-		// 	"Name" : "SkulltulasHint_50_GossipStone",
-		// 	"X" : "331",
-		// 	"Y" : "217",
-		// 	"Size" : "24, 24",
-		// 	"Visible" : "true"
-		// },
-		// {
-		// 	"Name" : "OcarinaOfTimeHint_GossipStone",
-		// 	"X" : "412",
-		// 	"Y" : "76",
-		// 	"Size" : "24, 24",
-		// 	"Visible" : "true"
-		// },
 		{
 			"Name" : "SkullMaskHint_GossipStone",
 			"X" : "412",
@@ -790,13 +745,6 @@
 			"Size" : "24, 24",
 			"Visible" : "true"
 		},
-		// {
-		// 	"Name" : "BiggoronHint_GossipStone",
-		// 	"X" : "412",
-		// 	"Y" : "170",
-		// 	"Size" : "24, 24",
-		// 	"Visible" : "true"
-		// },
 		{
 			"Name" : "FrogsHint_GossipStone",
 			"X" : "412",
