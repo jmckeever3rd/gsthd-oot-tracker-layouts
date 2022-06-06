@@ -1,4 +1,8 @@
+--------------------
+
 CURRENTLY WORK IN PROGRESS FOR SCRUBS SEASON 4
+
+--------------------
 
 **Custom Layouts for Hapax GSTHD with a focus on Scrubs Central Season 4 ZOOTR settings.**
 - WoTh w/ boss icons.

@@ -11,6 +11,7 @@
 			"gossip-stone-bw_32x32.png",
 			"sold-out_32x32.png",
 			"bottle-empty_32x32.png",
+			"bottle-blue-fire_32x32.png",
 			"bottle-big-poe_32x32.png"
 		],
 		"WothColors" : [
@@ -683,7 +684,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"triple-oot-icons/songs/song-note-yellow_32x40.png"
+				"triple-oot-icons/songs/song-note-yellow_32x32.png"
 			]
 		},
 		// {
@@ -751,7 +752,22 @@
 			"X" : "331",
 			"Y" : "170",
 			"Size" : "24, 24",
-			"Visible" : "true"
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"zeldas-lullaby_32x32.png",
+				"epona_32x32.png",
+				"saria_32x32.png",
+				"triple-oot-icons/songs/suns-song_32x32.png",
+				"song-of-time_32x32.png",
+				"triple-oot-icons/songs/song-of-storms_32x32.png",
+				"triple-oot-icons/songs/song-note-green_32x32.png",
+				"triple-oot-icons/songs/song-note-red_32x32.png",
+				"triple-oot-icons/songs/song-note-blue_32x32.png",
+				"triple-oot-icons/songs/song-note-orange_32x32.png",
+				"triple-oot-icons/songs/song-note-purple_32x32.png"
+			]
 		},
 		// {
 		// 	"Name" : "SkulltulasHint_50_GossipStone",
@@ -800,6 +816,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -815,6 +832,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -830,6 +848,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -845,6 +864,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -860,6 +880,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -875,6 +896,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
