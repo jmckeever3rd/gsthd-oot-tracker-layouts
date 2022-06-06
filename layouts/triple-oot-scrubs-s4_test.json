@@ -1,7 +1,7 @@
 {	
 	"AppSize" : {
 		"Width": "471",
-		"Height": "800",
+		"Height": "874",
 		"BackgroundColor": "22, 22, 22",
 		"DefaultSongMarkerImages" : [
 			"no-song_16x16.png",
@@ -298,10 +298,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"prescription-bw_32x32.png",
-				"prescription_32x32.png",
-				"kz-frog_32x32.png",
-				"eye-drops_32x32.png",
+				"triple-oot-icons/items/claim-check-bw_32x32.png",
 				"claim-check_32x32.png"
 			]
 		},
@@ -404,12 +401,12 @@
 	"CollectedItems" : [
 		{
 			"Name" : "CollectedSkulls",
-			"X" : "292",
+			"X" : "331",
 			"Y" : "72",
 			"Size" : "64, 32",
 			"CountPosition" : "20, 0",
 			"Step" : "1",
-			"CountMax": "50",
+			"CountMax": "30",
 			"Visible" : "true",
 			"ImageCollection" : [
 				"triple-oot-icons/gold-skulltula-token_64x32.png"
@@ -689,26 +686,26 @@
 				"triple-oot-icons/40-gold-skulltula_32x32.png"
 			]
 		},
-		{
-			"Name" : "SkulltulasHint_50",
-			"X" : "292",
-			"Y" : "213",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"triple-oot-icons/50-gold-skulltula_32x32.png"
-			]
-		},
-		{
-			"Name" : "OcarinaOfTimeHint",
-			"X" : "373",
-			"Y" : "72",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"ocarina-of-time_32x32.png"
-			]
-		},
+		// {
+		// 	"Name" : "SkulltulasHint_50",
+		// 	"X" : "292",
+		// 	"Y" : "213",
+		// 	"Size" : "32, 32",
+		// 	"Visible" : "true",
+		// 	"ImageCollection" : [
+		// 		"triple-oot-icons/50-gold-skulltula_32x32.png"
+		// 	]
+		// },
+		// {
+		// 	"Name" : "OcarinaOfTimeHint",
+		// 	"X" : "373",
+		// 	"Y" : "72",
+		// 	"Size" : "32, 32",
+		// 	"Visible" : "true",
+		// 	"ImageCollection" : [
+		// 		"ocarina-of-time_32x32.png"
+		// 	]
+		// },
 		{
 			"Name" : "SkullMaskHint",
 			"X" : "373",
@@ -720,20 +717,20 @@
 			]
 		},
 		
-		{
-			"Name" : "BiggoronHint",
-			"X" : "373",
-			"Y" : "166",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"biggoron_32x32.png"
-			]
-		},		
+		// {
+		// 	"Name" : "BiggoronHint",
+		// 	"X" : "373",
+		// 	"Y" : "166",
+		// 	"Size" : "32, 32",
+		// 	"Visible" : "true",
+		// 	"ImageCollection" : [
+		// 		"biggoron_32x32.png"
+		// 	]
+		// },		
 		{
 			"Name" : "FrogsHint",
 			"X" : "373",
-			"Y" : "213",
+			"Y" : "166",
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
@@ -756,20 +753,20 @@
 			"Size" : "24, 24",
 			"Visible" : "true"
 		},
-		{
-			"Name" : "SkulltulasHint_50_GossipStone",
-			"X" : "331",
-			"Y" : "217",
-			"Size" : "24, 24",
-			"Visible" : "true"
-		},
-		{
-			"Name" : "OcarinaOfTimeHint_GossipStone",
-			"X" : "412",
-			"Y" : "76",
-			"Size" : "24, 24",
-			"Visible" : "true"
-		},
+		// {
+		// 	"Name" : "SkulltulasHint_50_GossipStone",
+		// 	"X" : "331",
+		// 	"Y" : "217",
+		// 	"Size" : "24, 24",
+		// 	"Visible" : "true"
+		// },
+		// {
+		// 	"Name" : "OcarinaOfTimeHint_GossipStone",
+		// 	"X" : "412",
+		// 	"Y" : "76",
+		// 	"Size" : "24, 24",
+		// 	"Visible" : "true"
+		// },
 		{
 			"Name" : "SkullMaskHint_GossipStone",
 			"X" : "412",
@@ -777,19 +774,34 @@
 			"Size" : "24, 24",
 			"Visible" : "true"
 		},
+		// {
+		// 	"Name" : "BiggoronHint_GossipStone",
+		// 	"X" : "412",
+		// 	"Y" : "170",
+		// 	"Size" : "24, 24",
+		// 	"Visible" : "true"
+		// },
 		{
-			"Name" : "BiggoronHint_GossipStone",
+			"Name" : "FrogsHint_GossipStone",
 			"X" : "412",
 			"Y" : "170",
 			"Size" : "24, 24",
 			"Visible" : "true"
 		},
 		{
-			"Name" : "FrogsHint_GossipStone",
+			"Name" : "SometimesHint5_GossipStone",
 			"X" : "412",
-			"Y" : "217",
+			"Y" : "236",
 			"Size" : "24, 24",
-			"Visible" : "true"
+			"Visible" : "true",
+			"ImageCollection" : [
+				"gossip-stone-bw_32x32.png",
+				"sold-out_32x32.png",
+				"key_32x32.png",
+				"bk_32x32.png",
+				"bottle-empty_32x32.png",
+				"bottle-big-poe_32x32.png"
+			]
 		},
 		{
 			"Name" : "SometimesHint1_GossipStone",
@@ -990,6 +1002,28 @@
 			]
 		},
 		{
+			"Name" : "Barren4",
+			"X" : "20",
+			"Y" : "737",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"sold-out_32x32.png",
+				"sold-out_32x32.png"
+			]
+		},
+		{
+			"Name" : "Barren5",
+			"X" : "20",
+			"Y" : "774",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"sold-out_32x32.png",
+				"sold-out_32x32.png"
+			]
+		},
+		{
 			"Name" : "KidSpawn1",
 			"X" : "404",
 			"Y" : "626",
@@ -1033,6 +1067,19 @@
 		}
 	],
 	"SometimesHints" : [
+		{
+			"Name" : "SometimesHint5",
+			"X" : "279",
+			"Y" : "235",
+			"Visible" : "true",
+			"BackColor" : "64,64,64",
+			"FontName" : "Calibri",
+			"FontSize" : "11",
+			"FontStyle" : "Bold",
+			"FontColor" : "white",
+			"Width" : "128",
+			"Height" : "23"
+		},
 		{
 			"Name" : "SometimesHint1",
 			"X" : "279",
@@ -1283,7 +1330,7 @@
 			"LabelHeight" : "32"
 		},
 		{
-			"Name" : "MainPanelBarren3",
+			"Name" : "MainPanelBarren2",
 			"X" : "57",
 			"Y" : "663",
 			"Visible" : "true",
@@ -1293,7 +1340,7 @@
 			"NbMaxRows" : "1",
 			"IsScrollable" : "false",
 			
-			"TextBoxName" : "TextBox_Barren3",
+			"TextBoxName" : "TextBox_Barren2",
 			"TextBoxBackColor" : "103, 29, 29",
 			"TextBoxFontName" : "Calibri",
 			"TextBoxFontSize" : "11",
@@ -1322,6 +1369,62 @@
 			"IsScrollable" : "false",
 			
 			"TextBoxName" : "TextBox_Barren3",
+			"TextBoxBackColor" : "103, 29, 29",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "11",
+			"TextBoxFontStyle" : "Bold",
+			"TextBoxWidth" : "204",
+			"TextBoxHeight" : "32",
+			"TextBoxText" : "",
+			
+			"LabelColor": "White",
+			"LabelBackColor" : "103, 29, 29",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "11",
+			"LabelFontStyle" : "Bold",
+			"LabelWidth" : "204",
+			"LabelHeight" : "32"
+		},
+		{
+			"Name" : "MainPanelBarren4",
+			"X" : "57",
+			"Y" : "737",
+			"Visible" : "true",
+			"BackColor" : "103, 29, 29",
+			"Width" : "204",
+			"Height" : "32",
+			"NbMaxRows" : "1",
+			"IsScrollable" : "false",
+			
+			"TextBoxName" : "TextBox_Barren4",
+			"TextBoxBackColor" : "103, 29, 29",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "11",
+			"TextBoxFontStyle" : "Bold",
+			"TextBoxWidth" : "204",
+			"TextBoxHeight" : "32",
+			"TextBoxText" : "",
+			
+			"LabelColor": "White",
+			"LabelBackColor" : "103, 29, 29",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "11",
+			"LabelFontStyle" : "Bold",
+			"LabelWidth" : "204",
+			"LabelHeight" : "32"
+		},
+		{
+			"Name" : "MainPanelBarren5",
+			"X" : "57",
+			"Y" : "774",
+			"Visible" : "true",
+			"BackColor" : "103, 29, 29",
+			"Width" : "204",
+			"Height" : "32",
+			"NbMaxRows" : "1",
+			"IsScrollable" : "false",
+			
+			"TextBoxName" : "TextBox_Barren5",
 			"TextBoxBackColor" : "103, 29, 29",
 			"TextBoxFontName" : "Calibri",
 			"TextBoxFontSize" : "11",
