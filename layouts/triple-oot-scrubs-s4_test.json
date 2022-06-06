@@ -195,7 +195,7 @@
 			"Size" : "32, 32",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"lens-bw_32x32.png",
+				"lens_32x32.png",
 				"lens_32x32.png"
 			]
 		},
@@ -559,7 +559,7 @@
 			"Visible" : "true",
 			"DragAndDropImageName" : "",
 			"ImageCollection" : [
-				"triple-oot-icons/songs/song-note-bw_32x40.png",
+				"triple-oot-icons/songs/song-note-yellow_32x40.png",
 				"triple-oot-icons/songs/song-note-yellow_32x40.png"
 			]
 		}
