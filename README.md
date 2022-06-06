@@ -1,9 +1,11 @@
-**Custom Layouts for Hapax GSTHD with a focus on Season 5 ZOOTR settings.**
+CURRENTLY WORK IN PROGRESS FOR SCRUBS SEASON 4
+
+**Custom Layouts for Hapax GSTHD with a focus on Scrubs Central Season 4 ZOOTR settings.**
 - WoTh w/ boss icons.
 - Link spawn panels.
 - Customized and updated icons for GSTHD
-- Black & white Season 5 layout
-- Color Season 5 layout
+- Black & white scrubs season 4 layout
+- Color scrubs season 4 layout
 
 ## [Get Hapax's latest release of GSTHD tracker for Ocarina of Time Randomizer here](https://github.com/HapaxL/GSTHD/releases/latest)
 
