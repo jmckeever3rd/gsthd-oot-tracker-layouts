@@ -1,6 +1,6 @@
 {	
 	"AppSize" : {
-		"Width": "800",
+		"Width": "760",
 		"Height": "874",
 		"BackgroundColor": "22, 22, 22",
 		"DefaultSongMarkerImages" : [
@@ -812,7 +812,79 @@
 			"LabelFontSize" : "14",
 			"LabelFontStyle" : "Bold",
 			"LabelColor" : "White"
-		}
+		},
+		{
+			"Name" : "ChestDeku",
+			"X" : "658",
+			"Y" : "44",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "7",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestDc",
+			"X" : "658",
+			"Y" : "124",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "7",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestJabu",
+			"X" : "658",
+			"Y" : "204",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "4",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestJabu",
+			"X" : "658",
+			"Y" : "284",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "4",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
 	],
 	"Songs" : [
 		{
@@ -1500,7 +1572,51 @@
 			"FontStyle" : "Bold",
 			"Color" : "White",
 			"Visible" : "true"
-		}
+		},
+		{
+			"Name" : "Deku",
+			"Text" : "Deku - 7",
+			"X" : "654",
+			"Y" : "20",
+			"FontName" : "Calibri",
+			"FontSize": "14",
+			"FontStyle" : "Bold",
+			"Color" : "White",
+			"Visible" : "true"
+		},
+		{
+			"Name" : "DC",
+			"Text" : "DC - 7",
+			"X" : "654",
+			"Y" : "100",
+			"FontName" : "Calibri",
+			"FontSize": "14",
+			"FontStyle" : "Bold",
+			"Color" : "White",
+			"Visible" : "true"
+		},
+		{
+			"Name" : "Jabu",
+			"Text" : "Jabu - 4",
+			"X" : "654",
+			"Y" : "180",
+			"FontName" : "Calibri",
+			"FontSize": "14",
+			"FontStyle" : "Bold",
+			"Color" : "White",
+			"Visible" : "true"
+		},
+		{
+			"Name" : "Ice",
+			"Text" : "Ice - 4",
+			"X" : "654",
+			"Y" : "260",
+			"FontName" : "Calibri",
+			"FontSize": "14",
+			"FontStyle" : "Bold",
+			"Color" : "White",
+			"Visible" : "true"
+		},
 	],
 	"TextBoxes" : [
 	],
