@@ -423,7 +423,7 @@
 			"Y" : "44",
 			"Size" : "32, 32",
 			"CountPosition" : "5, 10",
-			"CountMax": "30",
+			"CountMax": "8",
 			"Step" : "1",
 			"Visible" : "true",
 			"ImageCollection" : [
@@ -441,7 +441,7 @@
 			"Y" : "44",
 			"Size" : "32, 32",
 			"CountPosition" : "5, 10",
-			"CountMax": "30",
+			"CountMax": "5",
 			"Step" : "1",
 			"Visible" : "true",
 			"ImageCollection" : [
@@ -457,6 +457,348 @@
 			"Name" : "BossKeyFrst",
 			"X" : "580",
 			"Y" : "44",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "1",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"bk_32x32.png",
+				"bk_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestFire",
+			"X" : "496",
+			"Y" : "124",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "6",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "KeyFire",
+			"X" : "538",
+			"Y" : "124",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "8",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"key_32x32.png",
+				"key_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "BossKeyFire",
+			"X" : "580",
+			"Y" : "124",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "1",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"bk_32x32.png",
+				"bk_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestWater",
+			"X" : "496",
+			"Y" : "204",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "4",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "KeyWater",
+			"X" : "538",
+			"Y" : "204",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "6",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"key_32x32.png",
+				"key_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "BossKeyWater",
+			"X" : "580",
+			"Y" : "204",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "1",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"bk_32x32.png",
+				"bk_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestSpirit",
+			"X" : "496",
+			"Y" : "284",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "14",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "KeySpirit",
+			"X" : "538",
+			"Y" : "284",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "5",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"key_32x32.png",
+				"key_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "BossKeySpirit",
+			"X" : "580",
+			"Y" : "284",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "1",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"bk_32x32.png",
+				"bk_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestShadow",
+			"X" : "496",
+			"Y" : "364",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "12",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "KeyShadow",
+			"X" : "538",
+			"Y" : "364",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "5",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"key_32x32.png",
+				"key_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "BossKeyShadow",
+			"X" : "580",
+			"Y" : "364",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "1",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"bk_32x32.png",
+				"bk_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestGTG",
+			"X" : "496",
+			"Y" : "444",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "13",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "KeyGTG",
+			"X" : "538",
+			"Y" : "444",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "9",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"key_32x32.png",
+				"key_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestBotw",
+			"X" : "496",
+			"Y" : "524",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "11",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "KeyBotw",
+			"X" : "538",
+			"Y" : "524",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "3",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"key_32x32.png",
+				"key_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestGc",
+			"X" : "496",
+			"Y" : "604",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "13",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "KeyGc",
+			"X" : "538",
+			"Y" : "604",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "3",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"key_32x32.png",
+				"key_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "BossKeyGc",
+			"X" : "580",
+			"Y" : "604",
 			"Size" : "32, 32",
 			"CountPosition" : "5, 10",
 			"CountMax": "1",
@@ -1117,7 +1459,7 @@
 		},
 		{
 			"Name" : "ShadowTemple",
-			"Text" : "Water - 12 5 1",
+			"Text" : "Shadow - 12 5 1",
 			"X" : "492",
 			"Y" : "340",
 			"FontName" : "Calibri",
