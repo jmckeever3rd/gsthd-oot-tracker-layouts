@@ -1,6 +1,6 @@
 {	
 	"AppSize" : {
-		"Width": "471",
+		"Width": "800",
 		"Height": "874",
 		"BackgroundColor": "22, 22, 22",
 		"DefaultSongMarkerImages" : [
@@ -411,6 +411,60 @@
 			"Visible" : "true",
 			"ImageCollection" : [
 				"triple-oot-icons/gold-skulltula-token_64x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "ChestFrst",
+			"X" : "492",
+			"Y" : "44",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "30",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"triple-oot-icons/items/treasure-chest.png",
+				"triple-oot-icons/items/treasure-chest.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "KeyFrst",
+			"X" : "534",
+			"Y" : "44",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "30",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"key_32x32.png",
+				"key_32x32.png"
+			],
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "14",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "BossKeyFrst",
+			"X" : "576",
+			"Y" : "44",
+			"Size" : "32, 32",
+			"CountPosition" : "5, 10",
+			"CountMax": "1",
+			"Step" : "1",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"bk_32x32.png",
+				"bk_32x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -1017,6 +1071,17 @@
 		}
 	],
 	"Labels" : [
+		{
+			"Name" : "ForestTemple",
+			"Text" : "Forest - 8 5 1",
+			"X" : "492",
+			"Y" : "20",
+			"FontName" : "Calibri",
+			"FontSize": "14",
+			"FontStyle" : "Bold",
+			"Color" : "White",
+			"Visible" : "true"
+		}
 	],
 	"TextBoxes" : [
 	],
