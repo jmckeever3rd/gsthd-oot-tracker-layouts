@@ -884,7 +884,7 @@
 			"LabelFontSize" : "14",
 			"LabelFontStyle" : "Bold",
 			"LabelColor" : "White"
-		},
+		}
 	],
 	"Songs" : [
 		{
@@ -1616,7 +1616,7 @@
 			"FontStyle" : "Bold",
 			"Color" : "White",
 			"Visible" : "true"
-		},
+		}
 	],
 	"TextBoxes" : [
 	],
