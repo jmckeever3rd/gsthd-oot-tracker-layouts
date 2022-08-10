@@ -427,7 +427,7 @@
 			"Step" : "1",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"gossip-stone-bw_32x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -444,7 +444,7 @@
 			"Step" : "1",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"gossip-stone-bw_32x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -461,7 +461,7 @@
 			"Step" : "1",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"gossip-stone-bw_32x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -478,7 +478,7 @@
 			"Step" : "1",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"gossip-stone-bw_32x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
@@ -495,7 +495,7 @@
 			"Step" : "1",
 			"Visible" : "true",
 			"ImageCollection" : [
-				"gossip-stone-bw_32x32.png",
+				"gossip-stone-bw_32x32.png"
 			],
 			"LabelFontName" : "Consolas",
 			"LabelFontSize" : "14",
