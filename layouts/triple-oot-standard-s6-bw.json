@@ -11,6 +11,7 @@
 			"gossip-stone-bw_32x32.png",
 			"sold-out_32x32.png",
 			"bottle-empty_32x32.png",
+			"bottle-blue-fire_32x32.png",
 			"bottle-big-poe_32x32.png"
 		],
 		"WothColors" : [
@@ -820,6 +821,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -835,6 +837,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -850,6 +853,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -865,6 +869,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -880,6 +885,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -895,6 +901,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -910,6 +917,7 @@
 				"key_32x32.png",
 				"bk_32x32.png",
 				"bottle-empty_32x32.png",
+				"bottle-blue-fire_32x32.png",
 				"bottle-big-poe_32x32.png"
 			]
 		},
@@ -1167,7 +1175,7 @@
 			"LabelHeight" : "32",
 			
 			"GossipStoneSize" : "32, 32",
-			"GossipStoneSpacing" : "2"
+			"GossipStoneSpacing" : "1"
 		},
 		{
 			"Name" : "MainPanelWoth2",
@@ -1195,7 +1203,7 @@
 			"LabelHeight" : "32",
 			
 			"GossipStoneSize" : "32, 32",
-			"GossipStoneSpacing" : "2"
+			"GossipStoneSpacing" : "1"
 		},
 		{
 			"Name" : "MainPanelWoth3",
@@ -1223,7 +1231,7 @@
 			"LabelHeight" : "32",
 			
 			"GossipStoneSize" : "32, 32",
-			"GossipStoneSpacing" : "2"
+			"GossipStoneSpacing" : "1"
 		},
 		{
 			"Name" : "MainPanelWoth4",
@@ -1251,7 +1259,7 @@
 			"LabelHeight" : "32",
 			
 			"GossipStoneSize" : "32, 32",
-			"GossipStoneSpacing" : "2"
+			"GossipStoneSpacing" : "1"
 		},
 		{
 			"Name" : "MainPanelWoth5",
@@ -1279,12 +1287,12 @@
 			"LabelHeight" : "32",
 			
 			"GossipStoneSize" : "32, 32",
-			"GossipStoneSpacing" : "2"
+			"GossipStoneSpacing" : "1"
 		}
 	],
 	"PanelBarren" : [
 		{
-			"Name" : "MainPanelKidSpawn",
+			"Name" : "MainPanelChildSpawn",
 			"X" : "58",
 			"Y" : "439",
 			"Visible" : "true",
@@ -1294,14 +1302,14 @@
 			"NbMaxRows" : "1",
 			"IsScrollable" : "false",
 			
-			"TextBoxName" : "TextBox_Barren1",
+			"TextBoxName" : "TextBox_ChildSpawn1",
 			"TextBoxBackColor" : "30, 101, 42",
 			"TextBoxFontName" : "Calibri",
 			"TextBoxFontSize" : "11",
 			"TextBoxFontStyle" : "Bold",
 			"TextBoxWidth" : "120",
 			"TextBoxHeight" : "32",
-			"TextBoxText" : " Kid Spawn",
+			"TextBoxText" : " Child Spawn",
 			
 			"LabelColor": "White",
 			"LabelBackColor" : "30, 101, 42",
