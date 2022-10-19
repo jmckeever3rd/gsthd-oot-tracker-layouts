@@ -1,10 +1,10 @@
 --------------------
 
-CURRENTLY WORK IN PROGRESS FOR SCRUBS SEASON 4
+CURRENTLY WORK IN PROGRESS FOR STANDARD SEASON 6
 
 --------------------
 
-**Custom Layouts for Hapax GSTHD with a focus on Scrubs Central Season 4 ZOOTR settings.**
+**Custom Layouts for Hapax GSTHD**
 - WoTh w/ boss icons.
 - Link spawn panels.
 - Customized and updated icons for GSTHD
@@ -27,6 +27,12 @@ CURRENTLY WORK IN PROGRESS FOR SCRUBS SEASON 4
 
 --------------------
 
+**Hints folder:**  
+- Various season season/sometimes_hint.json files, personal preference in labeling and naming.
+- if you like, you can copy the one you need and overwrite the one in /gsthd folder is located
+
+--------------------
+
 **Screenshots folder:**  
 - Visual screenshots of what each layout looks like. Only meant for reference.
 
@@ -35,9 +41,9 @@ CURRENTLY WORK IN PROGRESS FOR SCRUBS SEASON 4
 **Installation Instructions:**  
 - [Download the latest release of Hapax's latest release of GSTHD](https://github.com/HapaxL/GSTHD/releases/latest)
 - copy the whole /triple-oot-icons folder to wherever your GSTHD/resources folder is located
-- copy triple-oot-s5-bw.json & triple-oot-s5-color.json to wherever your GSTHD/layouts folder is located
+- copy triple-oot-WHICHEVERLAYOUT.json to wherever your GSTHD/layouts folder is located
 - open gsthd's settings.json file change "ActiveLayout" name to your preferred layout.
-example: "ActiveLayout": "triple-oot-s5-bw"
+example: "ActiveLayout": "triple-oot-standard-s6-bw"
 
 --------------------
 
