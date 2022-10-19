@@ -28,7 +28,7 @@ CURRENTLY WORK IN PROGRESS FOR STANDARD SEASON 6
 --------------------
 
 **Hints folder:**  
-- Various season season/sometimes_hint.json files, personal preference in labeling and naming.
+- Various /season_#/sometimes_hint.json files, personal preference in labeling and naming.
 - if you like, you can copy the one you need and overwrite the one in /gsthd folder is located
 
 --------------------
