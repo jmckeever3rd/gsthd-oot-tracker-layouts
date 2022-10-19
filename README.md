@@ -5,11 +5,10 @@ CURRENTLY WORK IN PROGRESS FOR STANDARD SEASON 6
 --------------------
 
 **Custom Layouts for Hapax GSTHD**
-- WoTh w/ boss icons.
-- Link spawn panels.
 - Customized and updated icons for GSTHD
-- Black & white scrubs season 4 layout
-- Color scrubs season 4 layout
+- Scrubs Central season 4 layouts
+- Standard season 5 layouts
+- Standard season 6 layouts
 
 ## [Get Hapax's latest release of GSTHD tracker for Ocarina of Time Randomizer here](https://github.com/HapaxL/GSTHD/releases/latest)
 
