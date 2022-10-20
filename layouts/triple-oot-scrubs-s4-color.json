@@ -423,7 +423,7 @@
 			"Y" : "426",
 			"Size" : "32, 32",
 			"CountPosition" : "0, 10",
-			"CountMax": "3",
+			"CountMax": "4",
 			"Step" : "1",
 			"Visible" : "true",
 			"ImageCollection" : [
