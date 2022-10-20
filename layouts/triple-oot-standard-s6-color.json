@@ -1,6 +1,6 @@
 {	
 	"AppSize" : {
-		"Width": "472",
+		"Width": "474",
 		"Height": "740",
 		"BackgroundColor": "22, 22, 22",
 		"DefaultSongMarkerImages" : [
@@ -1297,7 +1297,7 @@
 			"Y" : "439",
 			"Visible" : "true",
 			"BackColor" : "30, 101, 42",
-			"Width" : "162",
+			"Width" : "156",
 			"Height" : "32",
 			"NbMaxRows" : "1",
 			"IsScrollable" : "false",
@@ -1307,7 +1307,7 @@
 			"TextBoxFontName" : "Calibri",
 			"TextBoxFontSize" : "11",
 			"TextBoxFontStyle" : "Bold",
-			"TextBoxWidth" : "120",
+			"TextBoxWidth" : "156",
 			"TextBoxHeight" : "32",
 			"TextBoxText" : " Child Spawn",
 			
@@ -1316,7 +1316,7 @@
 			"LabelFontName" : "Calibri",
 			"LabelFontSize" : "11",
 			"LabelFontStyle" : "Bold",
-			"LabelWidth" : "120",
+			"LabelWidth" : "156",
 			"LabelHeight" : "32"
 		}
 	]
