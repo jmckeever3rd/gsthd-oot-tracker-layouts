@@ -917,96 +917,6 @@
 			]
 		},
 		{
-			"Name" : "woth_icon1",
-			"X" : "20",
-			"Y" : "491",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"bosses/unknown_32x32.png",
-				"bosses/gohma_32x32.png",
-				"bosses/dodongo_32x32.png",
-				"bosses/barinade_32x32.png",
-				"bosses/pg_32x32.png",
-				"bosses/volvagia_32x32.png",
-				"bosses/morpha_32x32.png",
-				"bosses/bongo_32x32.png",
-				"bosses/twinrova_32x32.png"
-			]
-		},
-		{
-			"Name" : "woth_icon2",
-			"X" : "20",
-			"Y" : "523",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"bosses/unknown_32x32.png",
-				"bosses/gohma_32x32.png",
-				"bosses/dodongo_32x32.png",
-				"bosses/barinade_32x32.png",
-				"bosses/pg_32x32.png",
-				"bosses/volvagia_32x32.png",
-				"bosses/morpha_32x32.png",
-				"bosses/bongo_32x32.png",
-				"bosses/twinrova_32x32.png"
-			]
-		},
-		{
-			"Name" : "woth_icon3",
-			"X" : "20",
-			"Y" : "555",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"bosses/unknown_32x32.png",
-				"bosses/gohma_32x32.png",
-				"bosses/dodongo_32x32.png",
-				"bosses/barinade_32x32.png",
-				"bosses/pg_32x32.png",
-				"bosses/volvagia_32x32.png",
-				"bosses/morpha_32x32.png",
-				"bosses/bongo_32x32.png",
-				"bosses/twinrova_32x32.png"
-			]
-		},
-		{
-			"Name" : "woth_icon4",
-			"X" : "20",
-			"Y" : "587",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"bosses/unknown_32x32.png",
-				"bosses/gohma_32x32.png",
-				"bosses/dodongo_32x32.png",
-				"bosses/barinade_32x32.png",
-				"bosses/pg_32x32.png",
-				"bosses/volvagia_32x32.png",
-				"bosses/morpha_32x32.png",
-				"bosses/bongo_32x32.png",
-				"bosses/twinrova_32x32.png"
-			]
-		},
-		{
-			"Name" : "woth_icon5",
-			"X" : "20",
-			"Y" : "619",
-			"Size" : "32, 32",
-			"Visible" : "true",
-			"ImageCollection" : [
-				"bosses/unknown_32x32.png",
-				"bosses/gohma_32x32.png",
-				"bosses/dodongo_32x32.png",
-				"bosses/barinade_32x32.png",
-				"bosses/pg_32x32.png",
-				"bosses/volvagia_32x32.png",
-				"bosses/morpha_32x32.png",
-				"bosses/bongo_32x32.png",
-				"bosses/twinrova_32x32.png"
-			]
-		},
-		{
 			"Name" : "KidSpawn1",
 			"X" : "20",
 			"Y" : "439",
@@ -1146,11 +1056,11 @@
 	"PanelWoth" : [
 		{
 			"Name" : "MainPanelWoth1",
-			"X" : "58",
+			"X" : "20",
 			"Y" : "491",
 			"Visible" : "true",
 			"BackColor" : "87, 87, 87",
-			"Width" : "378",
+			"Width" : "416",
 			"Height" : "160",
 			"NbMaxRows" : "5",
 			"IsScrollable" : "false",
