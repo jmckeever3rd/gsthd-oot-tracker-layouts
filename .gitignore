@@ -1,6 +1,10 @@
 /GSTHD
 /.vs
 /packages
+/resources/bosses
+/resources/mm
+/resources/alttp
+/resources/3ds
 sometimes_hints.json
 gsthd.exe
 newtonsoft.Json.dll
