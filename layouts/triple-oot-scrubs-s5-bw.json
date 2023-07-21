@@ -149,7 +149,7 @@
 			"Y": "156",
 			"Size": "32, 32",
 			"Visible": "true",
-			"ImageCollection": ["lens_32x32.png", "lens_32x32.png"]
+			"ImageCollection": ["lens-bw_32x32.png", "lens_32x32.png"]
 		},
 		{
 			"Name": "Beans",
@@ -492,7 +492,7 @@
 			"Visible": "true",
 			"DragAndDropImageName": "",
 			"ImageCollection": [
-				"triple-oot-icons/songs/song-note-yellow_32x40.png",
+				"triple-oot-icons/songs/song-note-bw_32x40.png",
 				"triple-oot-icons/songs/song-note-yellow_32x40.png"
 			]
 		}
@@ -690,7 +690,8 @@
 				"triple-oot-icons/songs/song-note-red_32x32.png",
 				"triple-oot-icons/songs/song-note-blue_32x32.png",
 				"triple-oot-icons/songs/song-note-orange_32x32.png",
-				"triple-oot-icons/songs/song-note-purple_32x32.png"
+				"triple-oot-icons/songs/song-note-purple_32x32.png",
+				"triple-oot-icons/songs/song-note-yellow_32x32.png"
 			]
 		},
 		{
