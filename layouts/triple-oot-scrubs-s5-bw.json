@@ -370,9 +370,7 @@
 			"Step": "1",
 			"CountMax": "4",
 			"Visible": "true",
-			"ImageCollection": [
-				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png"
-			],
+			"ImageCollection": ["gossip-stone-bw_32x32.png"],
 			"LabelFontSize": "14",
 			"LabelFontStyle": "Bold",
 			"LabelColor": "White"
@@ -386,9 +384,7 @@
 			"Step": "1",
 			"CountMax": "4",
 			"Visible": "true",
-			"ImageCollection": [
-				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png"
-			],
+			"ImageCollection": ["gossip-stone-bw_32x32.png"],
 			"LabelFontSize": "14",
 			"LabelFontStyle": "Bold",
 			"LabelColor": "White"
@@ -402,9 +398,7 @@
 			"Step": "1",
 			"CountMax": "4",
 			"Visible": "true",
-			"ImageCollection": [
-				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png"
-			],
+			"ImageCollection": ["gossip-stone-bw_32x32.png"],
 			"LabelFontSize": "14",
 			"LabelFontStyle": "Bold",
 			"LabelColor": "White"
@@ -418,9 +412,7 @@
 			"Step": "1",
 			"CountMax": "4",
 			"Visible": "true",
-			"ImageCollection": [
-				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png"
-			],
+			"ImageCollection": ["gossip-stone-bw_32x32.png"],
 			"LabelFontSize": "14",
 			"LabelFontStyle": "Bold",
 			"LabelColor": "White"
@@ -434,9 +426,7 @@
 			"Step": "1",
 			"CountMax": "4",
 			"Visible": "true",
-			"ImageCollection": [
-				"triple-oot-icons/medallions/triforce-medallion-bw_32x32.png"
-			],
+			"ImageCollection": ["gossip-stone-bw_32x32.png"],
 			"LabelFontSize": "14",
 			"LabelFontStyle": "Bold",
 			"LabelColor": "White"
