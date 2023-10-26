@@ -355,7 +355,9 @@
 			"Step": "1",
 			"CountMax": "30",
 			"Visible": "true",
-			"ImageCollection": ["triple-oot-icons/gold-skulltula-token_64x32.png"],
+			"ImageCollection": [
+				"triple-oot-icons/skulltula/gold-skulltula-token_64x32.png"
+			],
 			"LabelFontName": "Consolas",
 			"LabelFontSize": "14",
 			"LabelFontStyle": "Bold",
@@ -678,7 +680,9 @@
 			"Y": "130",
 			"Size": "32, 32",
 			"Visible": "true",
-			"ImageCollection": ["triple-oot-icons/20-gold-skulltula_32x32.png"]
+			"ImageCollection": [
+				"triple-oot-icons/skulltula/20-gold-skulltula_32x32.png"
+			]
 		},
 		{
 			"Name": "SkulltulasHint_30",
@@ -686,7 +690,9 @@
 			"Y": "172",
 			"Size": "32, 32",
 			"Visible": "true",
-			"ImageCollection": ["triple-oot-icons/30-gold-skulltula_32x32.png"]
+			"ImageCollection": [
+				"triple-oot-icons/skulltula/30-gold-skulltula_32x32.png"
+			]
 		},
 		{
 			"Name": "Hba",
