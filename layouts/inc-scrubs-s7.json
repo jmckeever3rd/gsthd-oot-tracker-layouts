@@ -1,0 +1,1379 @@
+{
+	"AppSize" :
+	{
+		"Width" : "366",
+		"Height" : "778",
+		"BackgroundColor" : "0, 0, 0"
+	},
+
+
+	"Items" :
+	[
+		{
+			"Name" : "Sticks",
+			"X" : "6",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/deku-stick.png"]
+		},
+		{
+			"Name" : "Nuts",
+			"X" : "42",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/deku-nut.png"]
+		},
+		{
+			"Name" : "Slingshot",
+			"X" : "6",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/(grayscale)/fairy-slingshot.png",
+				"c-items/fairy-slingshot.png"]
+		},
+		{
+			"Name" : "Ocarina",
+			"X" : "42",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/fairy-ocarina.png",
+				"c-items/ocarina-of-time.png"]
+		},
+		{
+			"Name" : "Bombs",
+			"X" : "78",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/(grayscale)/bomb.png",
+				"c-items/bomb.png"]
+		},
+		{
+			"Name" : "Bombchus",
+			"X" : "78",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/(grayscale)/bombchu.png",
+				"c-items/bombchu.png"]
+		},
+		{
+			"Name" : "Boomerang",
+			"X" : "6",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/(grayscale)/boomerang.png",
+				"c-items/boomerang.png"]
+		},
+		{
+			"Name" : "Lens",
+			"X" : "42",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/magic/lens-of-truth.png"]
+		},
+		{
+			"Name" : "Beans",
+			"X" : "78",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/(grayscale)/magic-beans.png",
+				"c-items/magic-beans.png"]
+		},
+		{
+			"Name" : "Bow",
+			"X" : "114",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/(grayscale)/fairy-bow.png",
+				"c-items/fairy-bow.png"]
+		},
+		{
+			"Name" : "Hookshot",
+			"X" : "114",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/(grayscale)/hookshot.png",
+				"c-items/hookshot.png",
+				"c-items/longshot.png"]
+		},
+		{
+			"Name" : "Hammer",
+			"X" : "114",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/(grayscale)/megaton-hammer.png",
+				"c-items/megaton-hammer.png"]
+		},
+		{
+			"Name" : "Fire Arrows",
+			"X" : "150",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/magic/(grayscale)/fire-arrow.png",
+				"c-items/magic/fire-arrow.png"]
+		},
+		{
+			"Name" : "Ice Arrows",
+			"X" : "150",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/magic/(grayscale)/ice-arrow.png",
+				"c-items/magic/ice-arrow.png"]
+		},
+		{
+			"Name" : "Light Arrows",
+			"X" : "150",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/magic/(grayscale)/light-arrow.png",
+				"c-items/magic/light-arrow.png"]
+		},
+		{
+			"Name" : "Din's Fire",
+			"X" : "186",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/magic/(grayscale)/din-fire.png",
+				"c-items/magic/din-fire.png"]
+		},
+		{
+			"Name" : "Farore's Wind",
+			"X" : "186",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/magic/farore-wind.png"]
+		},
+		{
+			"Name" : "Nayru's Love",
+			"X" : "186",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/magic/(grayscale)/nayru-love.png",
+				"c-items/magic/nayru-love.png"]
+		},
+		{
+			"Name" : "Ruto's Letter",
+			"X" : "6",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/bottles/(grayscale)/letter.png",
+				"c-items/bottles/letter.png",
+				"c-items/bottles/(miscellaneous)/letter.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/red-potion.png",
+				"c-items/bottles/green-potion.png",
+				"c-items/bottles/blue-potion.png",
+				"c-items/bottles/fairy.png",
+				"c-items/bottles/fish.png",
+				"c-items/bottles/lon-lon-milk.png",
+				"c-items/bottles/blue-fire.png",
+				"c-items/bottles/bug.png",
+				"c-items/bottles/poe.png",
+				"c-items/bottles/big-poe.png"]
+		},
+		{
+			"Name" : "Bottle #2",
+			"X" : "42",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/bottles/(grayscale)/bottle.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/red-potion.png",
+				"c-items/bottles/green-potion.png",
+				"c-items/bottles/blue-potion.png",
+				"c-items/bottles/fairy.png",
+				"c-items/bottles/fish.png",
+				"c-items/bottles/lon-lon-milk.png",
+				"c-items/bottles/blue-fire.png",
+				"c-items/bottles/bug.png",
+				"c-items/bottles/poe.png",
+				"c-items/bottles/big-poe.png"]
+		},
+		{
+			"Name" : "Bottle #3",
+			"X" : "78",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/bottles/(grayscale)/bottle.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/red-potion.png",
+				"c-items/bottles/green-potion.png",
+				"c-items/bottles/blue-potion.png",
+				"c-items/bottles/fairy.png",
+				"c-items/bottles/fish.png",
+				"c-items/bottles/lon-lon-milk.png",
+				"c-items/bottles/blue-fire.png",
+				"c-items/bottles/bug.png",
+				"c-items/bottles/poe.png",
+				"c-items/bottles/big-poe.png"]
+		},
+		{
+			"Name" : "Bottle #4",
+			"X" : "114",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/bottles/(grayscale)/bottle.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/red-potion.png",
+				"c-items/bottles/green-potion.png",
+				"c-items/bottles/blue-potion.png",
+				"c-items/bottles/fairy.png",
+				"c-items/bottles/fish.png",
+				"c-items/bottles/lon-lon-milk.png",
+				"c-items/bottles/blue-fire.png",
+				"c-items/bottles/bug.png",
+				"c-items/bottles/poe.png",
+				"c-items/bottles/big-poe.png"]
+		},
+		{
+			"Name" : "Biggoron Trading Sequence",
+			"X" : "150",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"trading/(grayscale)/claim-check.png",
+				"trading/claim-check.png"]
+		},
+		{
+			"Name" : "Mask Trading Sequence",
+			"X" : "186",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"trading/zelda-letter.png",
+				"trading/masks/keaton-mask.png",
+				"trading/masks/skull-mask.png",
+				"trading/masks/spooky-mask.png",
+				"trading/masks/bunny-hood.png"]
+		},
+
+		{
+			"Name" : "Kokiri Sword",
+			"X" : "240",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/(grayscale)/kokiri-sword.png",
+				"equipment/kokiri-sword.png"]
+		},
+		{
+			"Name" : "Master Sword",
+			"X" : "276",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/(grayscale)/master-sword.png",
+				"equipment/master-sword.png"]
+		},
+		{
+			"Name" : "Biggoron Sword",
+			"X" : "312",
+			"Y" : "6",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/(grayscale)/biggoron-sword.png",
+				"equipment/biggoron-sword.png"]
+		},
+		{
+			"Name" : "Deku Shield",
+			"X" : "240",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/deku-shield.png"]
+		},
+		{
+			"Name" : "Hylian Shield",
+			"X" : "276",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/hylian-shield.png"]
+		},
+		{
+			"Name" : "Mirror Shield",
+			"X" : "312",
+			"Y" : "42",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/(grayscale)/mirror-shield.png",
+				"equipment/mirror-shield.png"]
+		},
+		{
+			"Name" : "Kokiri Tunic",
+			"X" : "240",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/kokiri-tunic.png"]
+		},
+		{
+			"Name" : "Goron Tunic",
+			"X" : "276",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/(grayscale)/goron-tunic.png",
+				"equipment/goron-tunic.png"]
+		},
+		{
+			"Name" : "Zora Tunic",
+			"X" : "312",
+			"Y" : "78",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/(grayscale)/zora-tunic.png",
+				"equipment/zora-tunic.png"]
+		},
+		{
+			"Name" : "Kokiri Boots",
+			"X" : "240",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/kokiri-boots.png"]
+		},
+		{
+			"Name" : "Iron Boots",
+			"X" : "276",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/(grayscale)/iron-boots.png",
+				"equipment/iron-boots.png"]
+		},
+		{
+			"Name" : "Hover Boots",
+			"X" : "312",
+			"Y" : "114",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"equipment/(grayscale)/hover-boots.png",
+				"equipment/hover-boots.png"]
+		},
+
+		{
+			"Name" : "Strength",
+			"X" : "240",
+			"Y" : "168",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"inventory/(grayscale)/strength.png",
+				"inventory/goron-bracelet.png",
+				"inventory/silver-gauntlets.png",
+				"inventory/golden-gauntlets.png"]
+		},
+		{
+			"Name" : "Scale",
+			"X" : "240",
+			"Y" : "204",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"inventory/(grayscale)/scale.png",
+				"inventory/silver-scale.png",
+				"inventory/golden-scale.png"]
+		},
+		{
+			"Name" : "Magic",
+			"X" : "276",
+			"Y" : "168",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"inventory/(grayscale)/magic.png",
+				"inventory/magic_1.png",
+				"inventory/magic_2.png"]
+		},
+		{
+			"Name" : "Wallet",
+			"X" : "276",
+			"Y" : "204",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"inventory/(grayscale)/wallet.png",
+				"inventory/adult-wallet.png",
+				"inventory/giant-wallet.png"]
+		},
+		{
+			"Name" : "Gerudo Card",
+			"X" : "312",
+			"Y" : "168",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"inventory/(grayscale)/gerudo-card.png",
+				"inventory/gerudo-card.png"]
+		},
+	],
+
+
+	"CollectedItems" :
+	[
+		{
+			"Name" : "Gold Skulltulas",
+			"X" : "312",
+			"Y" : "204",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"inventory/collectibles/gold-skulltula.png"],
+
+			"Step" : "10",
+			"CountMax" : "30",
+			"CountPosition" : "8, 10",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "10",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+
+		{
+			"Name" : "Forest Keys",
+			"X" : "8",
+			"Y" : "256",
+			"Size" : "20, 20",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"dungeon/keys/forest.png"],
+
+			"CountMax" : "5",
+			"CountPosition" : "6, 6",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "Fire Keys",
+			"X" : "44",
+			"Y" : "256",
+			"Size" : "20, 20",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"dungeon/keys/fire.png"],
+
+			"CountMax" : "8",
+			"CountPosition" : "6, 6",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "Water Keys",
+			"X" : "80",
+			"Y" : "256",
+			"Size" : "20, 20",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"dungeon/keys/water.png"],
+
+			"CountMax" : "6",
+			"CountPosition" : "6, 6",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "Spirit Keys",
+			"X" : "118",
+			"Y" : "256",
+			"Size" : "20, 20",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"dungeon/keys/spirit.png"],
+
+			"CountMax" : "5",
+			"CountPosition" : "6, 6",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "Shadow Keys",
+			"X" : "154",
+			"Y" : "256",
+			"Size" : "20, 20",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"dungeon/keys/shadow.png"],
+
+			"CountMax" : "5",
+			"CountPosition" : "6, 6",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+
+		{
+			"Name" : "BotW Keys",
+			"X" : "244",
+			"Y" : "256",
+			"Size" : "20, 20",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"dungeon/keys/botw.png"],
+
+			"CountMax" : "3",
+			"CountPosition" : "6, 6",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "GTG Keys",
+			"X" : "280",
+			"Y" : "256",
+			"Size" : "20, 20",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"dungeon/keys/gtg.png"],
+
+			"CountMax" : "9",
+			"CountPosition" : "6, 6",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+		{
+			"Name" : "IGC Keys",
+			"X" : "316",
+			"Y" : "256",
+			"Size" : "20, 20",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"dungeon/keys/igc.png"],
+
+			"CountMax" : "2",
+			"CountPosition" : "6, 6",
+
+			"LabelFontName" : "Consolas",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold",
+			"LabelColor" : "White"
+		},
+	],
+
+
+	"Songs" :
+	[
+		{
+			"Name" : "Zelda's Lullaby",
+			"X" : "8",
+			"Y" : "156",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/zelda.png",
+				"songs/zelda.png"]
+		},
+		{
+			"Name" : "Epona's Song",
+			"X" : "44",
+			"Y" : "156",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/epona.png",
+				"songs/epona.png"]
+		},
+		{
+			"Name" : "Saria's Song",
+			"X" : "80",
+			"Y" : "156",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/saria.png",
+				"songs/saria.png"]
+		},
+		{
+			"Name" : "Sun's Song",
+			"X" : "118",
+			"Y" : "156",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/sun.png",
+				"songs/sun.png"]
+		},
+		{
+			"Name" : "Song of Time",
+			"X" : "154",
+			"Y" : "156",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/ocarina.png",
+				"songs/ocarina.png"]
+		},
+		{
+			"Name" : "Song of Storms",
+			"X" : "190",
+			"Y" : "156",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/storm.png",
+				"songs/storm.png"]
+		},
+
+		{
+			"Name" : "Minuet of Forest",
+			"X" : "8",
+			"Y" : "196",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/minuet.png",
+				"songs/minuet.png"]
+		},
+		{
+			"Name" : "Bolero of Fire",
+			"X" : "44",
+			"Y" : "196",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/bolero.png",
+				"songs/bolero.png"]
+		},
+		{
+			"Name" : "Serenade of Water",
+			"X" : "80",
+			"Y" : "196",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/serenade.png",
+				"songs/serenade.png"]
+		},
+		{
+			"Name" : "Requiem of Spirit",
+			"X" : "118",
+			"Y" : "196",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/requiem.png",
+				"songs/requiem.png"]
+		},
+		{
+			"Name" : "Nocturne of Shadow",
+			"X" : "154",
+			"Y" : "196",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/nocturne.png",
+				"songs/nocturne.png"]
+		},
+		{
+			"Name" : "Prelude of Light",
+			"X" : "190",
+			"Y" : "196",
+			"Size" : "24, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"songs/(grayscale)/prelude.png",
+				"songs/prelude.png"]
+		},
+	],
+
+
+	"Medallions" :
+	[
+		{
+			"Name" : "Light Medallion",
+			"X" : "276",
+			"Y" : "294",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/light-medallion.png",
+				"quest/light-medallion.png",
+				"quest/(miscellaneous)/light-medallion.png"]
+		},
+		{
+			"Name" : "Forest Medallion",
+			"X" : "240",
+			"Y" : "330",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/forest-medallion.png",
+				"quest/forest-medallion.png",
+				"quest/(miscellaneous)/forest-medallion.png"]
+		},
+		{
+			"Name" : "Fire Medallion",
+			"X" : "276",
+			"Y" : "330",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/fire-medallion.png",
+				"quest/fire-medallion.png",
+				"quest/(miscellaneous)/fire-medallion.png"]
+		},
+		{
+			"Name" : "Water Medallion",
+			"X" : "312",
+			"Y" : "330",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/water-medallion.png",
+				"quest/water-medallion.png",
+				"quest/(miscellaneous)/water-medallion.png"]
+		},
+		{
+			"Name" : "Shadow Medallion",
+			"X" : "258",
+			"Y" : "366",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/shadow-medallion.png",
+				"quest/shadow-medallion.png",
+				"quest/(miscellaneous)/shadow-medallion.png"]
+		},
+		{
+			"Name" : "Spirit Medallion",
+			"X" : "294",
+			"Y" : "366",
+			"Size" : "30, 30",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/spirit-medallion.png",
+				"quest/spirit-medallion.png",
+				"quest/(miscellaneous)/spirit-medallion.png"]
+		},
+
+		{
+			"Name" : "Kokiri Emerald",
+			"X" : "242",
+			"Y" : "408",
+			"Size" : "26, 26",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/kokiri-emerald.png",
+				"quest/kokiri-emerald.png",
+				"quest/(miscellaneous)/kokiri-emerald.png"]
+		},
+		{
+			"Name" : "Goron Ruby",
+			"X" : "278",
+			"Y" : "408",
+			"Size" : "26, 26",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/goron-ruby.png",
+				"quest/goron-ruby.png",
+				"quest/(miscellaneous)/goron-ruby.png"]
+		},
+		{
+			"Name" : "Zora Sapphire",
+			"X" : "314",
+			"Y" : "408",
+			"Size" : "26, 26",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"quest/(grayscale)/zora-sapphire.png",
+				"quest/zora-sapphire.png",
+				"quest/(miscellaneous)/zora-sapphire.png"]
+		},
+	],
+
+
+	"GoMode" :
+	[
+		{
+			"Name" : "GO Mode",
+			"X" : "184",
+			"Y" : "250",
+			"Size" : "32, 32",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"miscellaneous/(grayscale)/go-mode.png",
+				"miscellaneous/go-mode.png"],
+
+			"BackgroundImage" :
+				"miscellaneous/backgrounds/go-mode.png"
+		},
+	],
+
+
+	"SometimesHints" :
+	[
+		{
+			"Name" : "Sometimes #1",
+			"X" : "52",
+			"Y" : "298",
+			"Visible" : "true",
+
+			"Width" : "164",
+			"BackColor" : "52, 52, 52",
+
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		},
+		{
+			"Name" : "Sometimes #2",
+			"X" : "52",
+			"Y" : "322",
+			"Visible" : "true",
+
+			"Width" : "164",
+			"BackColor" : "52, 52, 52",
+
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		},
+		{
+			"Name" : "Sometimes #3",
+			"X" : "32",
+			"Y" : "346",
+			"Visible" : "true",
+
+			"Width" : "184",
+			"BackColor" : "52, 52, 52",
+
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		},
+		{
+			"Name" : "Sometimes #4",
+			"X" : "32",
+			"Y" : "370",
+			"Visible" : "true",
+
+			"Width" : "184",
+			"BackColor" : "52, 52, 52",
+
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		},
+		{
+			"Name" : "Sometimes #5",
+			"X" : "32",
+			"Y" : "394",
+			"Visible" : "true",
+
+			"Width" : "184",
+			"BackColor" : "52, 52, 52",
+
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		},
+		{
+			"Name" : "Sometimes #6",
+			"X" : "32",
+			"Y" : "418",
+			"Visible" : "true",
+
+			"Width" : "184",
+			"BackColor" : "52, 52, 52",
+
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		},
+		{
+			"Name" : "Sometimes #7",
+			"X" : "32",
+			"Y" : "442",
+			"Visible" : "true",
+
+			"Width" : "184",
+			"BackColor" : "52, 52, 52",
+
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		},
+		{
+			"Name" : "Sometimes #8",
+			"X" : "32",
+			"Y" : "466",
+			"Visible" : "true",
+
+			"Width" : "184",
+			"BackColor" : "52, 52, 52",
+
+			"FontName" : "Calibri",
+			"FontSize" : "8",
+			"FontStyle" : "Bold",
+			"FontColor" : "White"
+		}
+	],
+
+
+	"GuaranteedHints" :
+	[
+		{
+			"Name" : "20 Skulls",
+			"X" : "190",
+			"Y" : "685",
+			"Size" : "22, 22",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"hints/skulls/gold-skulltula_20.png"]
+		},
+		{
+			"Name" : "30 Skulls",
+			"X" : "245",
+			"Y" : "685",
+			"Size" : "22, 22",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"hints/skulls/gold-skulltula_30.png"]
+		},
+		{
+			"Name" : "Big Poe Text Hint",
+			"X" : "302",
+			"Y" : "685",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"c-items/bottles/big-poe.png"]
+		},
+		{
+			"Name" : "Skull Mask",
+			"X" : "190",
+			"Y" : "655",
+			"Size" : "22, 22",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"hints/skull-mask.png"]
+		},
+		{
+			"Name" : "Frogs Minigame",
+			"X" : "280",
+			"Y" : "655",
+			"Size" : "22, 22",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"hints/frog.png"]
+		},
+		{
+			"Name" : "Castle Fairies",
+			"X" : "190",
+			"Y" : "625",
+			"Size" : "22, 22",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"hints/scrubs/great-fairy.png"]
+		},
+		{
+			"Name" : "Ice Rewards",
+			"X" : "280",
+			"Y" : "625",
+			"Size" : "22, 22",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"hints/scrubs/ice-cavern.png"]
+		},
+
+		{
+			"Name" : "Child Spawn",
+			"X" : "6",
+			"Y" : "688",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"miscellaneous/link/child.png"]
+		},
+		{
+			"Name" : "Adult Spawn",
+			"X" : "6",
+			"Y" : "714",
+			"Size" : "24, 24",
+			"Visible" : "true",
+			"ImageCollection" : [
+				"miscellaneous/link/adult.png"]
+		}
+	],
+
+
+	"PanelWoth" :
+	[
+		{
+			"Name" : "WotH",
+			"X" : "6",
+			"Y" : "500",
+			"Visible" : "true",
+
+			"Width" : "316",
+			"Height" : "100",
+			"BackColor" : "52, 52, 52",
+
+			"NbMaxRows" : "5",
+			"GossipStoneSize" : "20, 20",
+
+			"TextBoxText" : "Path to Reward",
+			"TextBoxHeight" : "20",
+			"TextBoxBackColor" : "0, 0, 255",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "12",
+			"TextBoxFontStyle" : "Bold",
+
+			"LabelHeight" : "20",
+			"LabelBackColor" : "115, 147, 179",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "10",
+			"LabelFontStyle" : "Bold",
+
+			"GossipStoneImageCollection" : [
+				"miscellaneous/gossip-stone.png",
+				"c-items/(miscellaneous)/hookshot.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/big-poe.png"]
+		},
+	],
+
+
+	"PanelBarren" :
+	[
+		{
+			"Name" : "Barren",
+			"X" : "6",
+			"Y" : "604",
+			"Visible" : "true",
+
+			"Width" : "176",
+			"Height" : "80",
+			"BackColor" : "52, 52, 52",
+
+			"NbMaxRows" : "4",
+
+			"TextBoxText" : "Foolish Choice",
+			"TextBoxWidth" : "176",
+			"TextBoxHeight" : "20",
+			"TextBoxBackColor" : "255, 0, 0",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "12",
+			"TextBoxFontStyle" : "Bold",
+
+			"LabelWidth" : "176",
+			"LabelHeight" : "20",
+			"LabelBackColor" : "220, 20, 60",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "10",
+			"LabelFontStyle" : "Bold"
+		},
+
+		{
+			"Name" : "Child",
+			"X" : "36",
+			"Y" : "688",
+			"Visible" : "true",
+
+			"Width" : "146",
+			"Height" : "24",
+
+			"NbMaxRows" : "1",
+
+			"TextBoxText" : "Child Spawn",
+			"TextBoxWidth" : "184",
+			"TextBoxHeight" : "20",
+			"TextBoxBackColor" : "0, 128, 0",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "12",
+			"TextBoxFontStyle" : "Bold",
+
+			"LabelWidth" : "184",
+			"LabelHeight" : "24",
+			"LabelBackColor" : "34, 139, 34",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold"
+		},
+		{
+			"Name" : "Adult",
+			"X" : "36",
+			"Y" : "716",
+			"Visible" : "true",
+
+			"Width" : "146",
+			"Height" : "20",
+
+			"NbMaxRows" : "1",
+
+			"TextBoxText" : "Adult Spawn",
+			"TextBoxWidth" : "184",
+			"TextBoxHeight" : "24",
+			"TextBoxBackColor" : "0, 128, 0",
+			"TextBoxFontName" : "Calibri",
+			"TextBoxFontSize" : "12",
+			"TextBoxFontStyle" : "Bold",
+
+			"LabelWidth" : "184",
+			"LabelHeight" : "24",
+			"LabelBackColor" : "34, 139, 34",
+			"LabelFontName" : "Calibri",
+			"LabelFontSize" : "8",
+			"LabelFontStyle" : "Bold"
+		},
+	],
+
+
+	"GossipStones" :
+	[
+	],
+
+
+	"GossipStoneGrids" :
+	[
+	{
+			"Name" : "Sometimes Hints - Dual",
+			"X" : "4",
+			"Y" : "296",
+			"Size" : "24, 24",
+			"Visible" : "true",
+
+			"Columns" : "2",
+			"Rows" : "2",
+			"Spacing" : "-1, 0",
+
+			"ImageCollection" : [
+				"miscellaneous/gossip-stone.png",
+				"hints/(miscellaneous)/dead.png",
+				"dungeon/keys/(miscellaneous)/small-key.png",
+				"dungeon/keys/boss/(miscellaneous)/boss-key.png",
+				"c-items/(miscellaneous)/hookshot.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/big-poe.png"]
+		},
+		{
+			"Name" : "Sometimes Hints",
+			"X" : "4",
+			"Y" : "344",
+			"Size" : "24, 24",
+			"Visible" : "true",
+
+			"Columns" : "1",
+			"Rows" : "6",
+			"Spacing" : "0, 0",
+
+			"ImageCollection" : [
+				"miscellaneous/gossip-stone.png",
+				"hints/(miscellaneous)/dead.png",
+				"dungeon/keys/(miscellaneous)/small-key.png",
+				"dungeon/keys/boss/(miscellaneous)/boss-key.png",
+				"c-items/(miscellaneous)/hookshot.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/big-poe.png"]
+		},
+		{
+			"Name" : "Always Hints - Ice Cavern",
+			"X" : "302",
+			"Y" : "625",
+			"Size" : "24, 24",
+			"Visible" : "true",
+
+			"Columns" : "2",
+			"Rows" : "1",
+			"Spacing" : "-2, 0",
+
+			"ImageCollection" : [
+				"miscellaneous/gossip-stone.png",
+				"hints/(miscellaneous)/dead.png",
+				"c-items/(miscellaneous)/hookshot.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/big-poe.png",
+				"trading/prescription.png",
+				"trading/eyeball-frog.png",
+				"trading/eye-drops.png",
+				"trading/claim-check.png"]
+		},
+		{
+			"Name" : "Always Hints - HC & OGC",
+			"X" : "212",
+			"Y" : "625",
+			"Size" : "24, 24",
+			"Visible" : "true",
+
+			"Columns" : "2",
+			"Rows" : "1",
+			"Spacing" : "-2, 0",
+
+			"ImageCollection" : [
+				"miscellaneous/gossip-stone.png",
+				"hints/(miscellaneous)/dead.png",
+				"c-items/(miscellaneous)/hookshot.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/big-poe.png",
+				"trading/prescription.png",
+				"trading/eyeball-frog.png",
+				"trading/eye-drops.png",
+				"trading/claim-check.png"]
+		},
+		{
+			"Name" : "Always Hints - Row 1",
+			"X" : "212",
+			"Y" : "685",
+			"Size" : "24, 24",
+			"Visible" : "true",
+
+			"Columns" : "3",
+			"Rows" : "1",
+			"Spacing" : "32, 10",
+
+			"ImageCollection" : [
+				"miscellaneous/gossip-stone.png",
+				"hints/(miscellaneous)/dead.png",
+				"c-items/(miscellaneous)/hookshot.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/big-poe.png",
+				"trading/prescription.png",
+				"trading/eyeball-frog.png",
+				"trading/eye-drops.png",
+				"trading/claim-check.png"]
+		},
+		{
+			"Name" : "Skull Mask Hint",
+			"X" : "212",
+			"Y" : "655",
+			"Size" : "24, 24",
+			"Visible" : "true",
+
+			"Columns" : "1",
+			"Rows" : "1",
+			"Spacing" : "0, 0",
+
+			"ImageCollection" : [
+				"miscellaneous/gossip-stone.png",
+				"hints/(miscellaneous)/dead.png",
+				"c-items/(miscellaneous)/hookshot.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/big-poe.png",
+				"trading/prescription.png",
+				"trading/eyeball-frog.png",
+				"trading/eye-drops.png",
+				"trading/claim-check.png"]
+		},
+		{
+			"Name" : "Frogs dual hint",
+			"X" : "302",
+			"Y" : "655",
+			"Size" : "24, 24",
+			"Visible" : "true",
+
+			"Columns" : "2",
+			"Rows" : "1",
+			"Spacing" : "-1, 0",
+
+			"ImageCollection" : [
+				"miscellaneous/gossip-stone.png",
+				"hints/(miscellaneous)/dead.png",
+				"c-items/(miscellaneous)/hookshot.png",
+				"c-items/bottles/empty-bottle.png",
+				"c-items/bottles/big-poe.png",
+				"trading/prescription.png",
+				"trading/eyeball-frog.png",
+				"trading/eye-drops.png",
+				"trading/claim-check.png"]
+		},
+		{
+			"Name" : "Goal Hints",
+			"X" : "328",
+			"Y" : "500",
+			"Size" : "16, 16",
+			"Visible" : "true",
+
+			"Columns" : "1",
+			"Rows" : "5",
+			"Spacing" : "0, 4",
+
+			"ImageCollection" : [
+				"hints/(miscellaneous)/(grayscale)/check.png",
+				"hints/(miscellaneous)/check.png"]
+		}
+	]
+}
